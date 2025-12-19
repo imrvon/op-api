@@ -85,7 +85,7 @@
   {
     "id": 5,
     "name": "Sanji",
-    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110030/One%20Piece/sanji_kzwiz5.webp",
     "size": "180cm",
     "age": "21 ans",
     "bounty": "330.000.000",
@@ -105,7 +105,7 @@
   {
     "id": 6,
     "name": "Tony-Tony Chopper",
-    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110151/One%20Piece/chopper_djghjs.webp",
     "size": "90cm",
     "age": "17 ans",
     "bounty": "100",
@@ -134,7 +134,7 @@
   {
     "id": 7,
     "name": "Nico Robin",
-    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110293/One%20Piece/nico_d759yx.webp",
     "size": "188cm",
     "age": "30 ans",
     "bounty": "130.000.000",
@@ -163,7 +163,7 @@
   {
     "id": 8,
     "name": "Franky",
-    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110445/One%20Piece/franky_ustmhc.webp",
     "size": "240cm",
     "age": "36 ans",
     "bounty": "94.000.000",
@@ -183,7 +183,7 @@
   {
     "id": 9,
     "name": "Brook",
-    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110578/One%20Piece/brook_arcsha.webp",
     "size": "277cm",
     "age": "90 ans",
     "bounty": "83.000.000",
