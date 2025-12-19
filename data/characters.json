@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Monkey D Luffy",
-    "image": "https://example.com/luffy.png",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
     "size": "174cm",
     "age": "19 ans",
     "bounty": "3000000000",
@@ -21,13 +21,13 @@
       "description": "Grants rubber-like properties to the user's body",
       "type": "Paramecia",
       "roman_name": "Gomu Gomu no Mi",
-      "filename": "https://example.com/fruits/gomu-gomu.png"
+      "filename": "https://images.api-onepiece.com/fruits/5665e89442022d4c0e7684c650dc6d6b.png"
     }
   },
   {
     "id": 2,
     "name": "Roronoa Zoro",
-    "image": "https://example.com/zoro.png",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766109298/One%20Piece/zoro_hmiiah.webp",
     "size": "181cm",
     "age": "21 ans",
     "bounty": "320000000",
@@ -45,6 +45,7 @@
   {
     "id": 3,
     "name": "Nami",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766109530/One%20Piece/nami_tdz9re.webp",
     "size": "170cm",
     "age": "20 ans",
     "bounty": "66.000.000",
@@ -64,6 +65,7 @@
   {
     "id": 4,
     "name": "Usopp",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766109811/One%20Piece/usopp_wupm4y.webp",
     "size": "176cm",
     "age": "19 ans",
     "bounty": "200.000.000",
@@ -83,6 +85,7 @@
   {
     "id": 5,
     "name": "Sanji",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
     "size": "180cm",
     "age": "21 ans",
     "bounty": "330.000.000",
@@ -102,6 +105,7 @@
   {
     "id": 6,
     "name": "Tony-Tony Chopper",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
     "size": "90cm",
     "age": "17 ans",
     "bounty": "100",
@@ -130,6 +134,7 @@
   {
     "id": 7,
     "name": "Nico Robin",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
     "size": "188cm",
     "age": "30 ans",
     "bounty": "130.000.000",
@@ -158,6 +163,7 @@
   {
     "id": 8,
     "name": "Franky",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
     "size": "240cm",
     "age": "36 ans",
     "bounty": "94.000.000",
@@ -177,6 +183,7 @@
   {
     "id": 9,
     "name": "Brook",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
     "size": "277cm",
     "age": "90 ans",
     "bounty": "83.000.000",
@@ -205,6 +212,7 @@
   {
     "id": 10,
     "name": "Jinbe",
+    "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
     "size": "301cm",
     "age": "46 ans",
     "bounty": "438.000.000",
