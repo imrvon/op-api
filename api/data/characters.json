@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Monkey D Luffy",
+    "image": "https://example.com/luffy.png",
+    "size": "174cm",
+    "age": "19 ans",
+    "bounty": "3000000000",
+    "job": "Captain",
+    "status": "living",
+    "crew": {
+      "id": 1,
+      "name": "Straw Hat Pirates",
+      "roman_name": "Mugiwara no Ichimi",
+      "total_prime": "3161000100",
+      "is_yonko": true
+    },
+    "fruit": {
+      "id": 1,
+      "name": "Gum-Gum Fruit",
+      "description": "Grants rubber-like properties to the user's body",
+      "type": "Paramecia",
+      "roman_name": "Gomu Gomu no Mi",
+      "filename": "https://example.com/fruits/gomu-gomu.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Roronoa Zoro",
+    "image": "https://example.com/zoro.png",
+    "size": "181cm",
+    "age": "21 ans",
+    "bounty": "320000000",
+    "job": "Swordsman",
+    "status": "living",
+    "crew": {
+      "id": 1,
+      "name": "Straw Hat Pirates",
+      "roman_name": "Mugiwara no Ichimi",
+      "total_prime": "3161000100",
+      "is_yonko": true
+    },
+    "fruit": null
+  }
+]
