@@ -7,7 +7,7 @@ module.exports = (req, res) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET');
     
-    // Fix: Use __dirname to get the correct path relative to this file
+    // Since data is at root: go up from api/characters to api, then up to root, then into data
     const filePath = path.join(__dirname, '..', '..', 'data', 'characters.json');
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const characters = JSON.parse(fileContents);
@@ -28,7 +28,8 @@ module.exports = (req, res) => {
     console.error('Error:', error);
     res.status(500).json({ 
       error: 'Internal Server Error',
-      message: error.message
+      message: error.message,
+      stack: error.stack
     });
   }
 };
