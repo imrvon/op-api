@@ -1,14 +1,14 @@
 const fs = require('fs');
 const path = require('path');
 
-module.exports = (req, res) => {
+export default function handler(req, res) {
   try {
     // Enable CORS
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET');
     
-    // Since data is at root: go up from api/characters to api, then up to root, then into data
-    const filePath = path.join(__dirname, '..', '..', 'data', 'characters.json');
+    // Read the JSON file
+    const filePath = path.join(process.cwd(), 'data', 'characters.json');
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const characters = JSON.parse(fileContents);
     
@@ -28,8 +28,7 @@ module.exports = (req, res) => {
     console.error('Error:', error);
     res.status(500).json({ 
       error: 'Internal Server Error',
-      message: error.message,
-      stack: error.stack
+      message: error.message 
     });
   }
-};
+}
