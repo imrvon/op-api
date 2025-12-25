@@ -11,13 +11,13 @@ module.exports = (req, res) => {
     const projectRoot = path.join(__dirname, '..', '..');
     const dataDir = path.join(projectRoot, 'data');
     // Important: Matches the filename you mentioned created
-    const filePath = path.join(dataDir, 'pirate-crews.json'); 
+    const filePath = path.join(dataDir, 'crews.json'); 
     
     // 3. Safety Check
     if (!fs.existsSync(filePath)) {
       return res.status(500).json({
         error: 'File not found',
-        message: 'pirate-crews.json does not exist in data folder'
+        message: 'crews.json does not exist in data folder'
       });
     }
     
