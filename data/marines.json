@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "name": "Sakazuki",
+    "roman_name": "Akainu",
+    "rank": "Fleet Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Absolute Justice",
+    "bounty": "Cross Guild: 5 Crowns (approx. 5 Billion)",
+    "age": "55",
+    "status": "Active",
+    "fruit": {
+      "name": "Magu Magu no Mi",
+      "type": "Logia",
+      "description": "Allows the user to create, control, and transform into magma."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Sakazuki_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 2,
+    "name": "Borsalino",
+    "roman_name": "Kizaru",
+    "rank": "Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Unclear Justice",
+    "bounty": "Cross Guild: 3 Crowns (approx. 3 Billion)",
+    "age": "58",
+    "status": "Active",
+    "fruit": {
+      "name": "Pika Pika no Mi",
+      "type": "Logia",
+      "description": "Allows the user to create, control, and transform into light."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Borsalino_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 3,
+    "name": "Issho",
+    "roman_name": "Fujitora",
+    "rank": "Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Moral Justice",
+    "bounty": "Cross Guild: 3 Crowns (approx. 3 Billion)",
+    "age": "54",
+    "status": "Active",
+    "fruit": {
+      "name": "Zushi Zushi no Mi",
+      "type": "Paramecia",
+      "description": "Allows the user to manipulate gravity."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Issho_Anime_Infobox.png"
+  },
+  {
+    "id": 4,
+    "name": "Aramaki",
+    "roman_name": "Ryokugyu",
+    "rank": "Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Determined Justice",
+    "bounty": "Cross Guild: 3 Crowns (approx. 3 Billion)",
+    "age": "Unknown",
+    "status": "Active",
+    "fruit": {
+      "name": "Mori Mori no Mi",
+      "type": "Logia",
+      "description": "Allows the user to create, control, and transform into plant life."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Aramaki_Anime_Infobox.png"
+  },
+  {
+    "id": 5,
+    "name": "Monkey D. Garp",
+    "roman_name": "Garp",
+    "rank": "Vice Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Self-Determined Justice",
+    "bounty": "Cross Guild: 3 Crowns (approx. 3 Billion)",
+    "age": "78",
+    "status": "Active (Legend)",
+    "fruit": null,
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/82/Monkey_D._Garp_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 6,
+    "name": "Sengoku",
+    "roman_name": "Sengoku",
+    "rank": "Inspector General",
+    "affiliation": "Marine Headquarters",
+    "justice": "Reigning Justice",
+    "bounty": "Unknown",
+    "age": "79",
+    "status": "Semi-Retired",
+    "fruit": {
+      "name": "Hito Hito no Mi, Model: Daibutsu",
+      "type": "Mythical Zoan",
+      "description": "Allows the user to transform into a giant gold Daibutsu (Buddha)."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Sengoku_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 7,
+    "name": "Smoker",
+    "roman_name": "Smoker",
+    "rank": "Vice Admiral",
+    "affiliation": "G-5 Base",
+    "justice": "Moral Justice",
+    "bounty": "Unknown",
+    "age": "36",
+    "status": "Active",
+    "fruit": {
+      "name": "Moku Moku no Mi",
+      "type": "Logia",
+      "description": "Allows the user to create, control, and transform into smoke."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/42/Smoker_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 8,
+    "name": "Koby",
+    "roman_name": "Koby",
+    "rank": "Captain",
+    "affiliation": "SWORD",
+    "justice": "Honest Justice",
+    "bounty": "Cross Guild: 5 Stars (approx. 500 Million)",
+    "age": "18",
+    "status": "Active",
+    "fruit": null,
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/1d/Koby_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 9,
+    "name": "Tsuru",
+    "roman_name": "Tsuru",
+    "rank": "Vice Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Clean Justice",
+    "bounty": "Unknown",
+    "age": "76",
+    "status": "Active",
+    "fruit": {
+      "name": "Woshu Woshu no Mi",
+      "type": "Paramecia",
+      "description": "Allows the user to wash and fold people like laundry."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Tsuru_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 10,
+    "name": "Tashigi",
+    "roman_name": "Tashigi",
+    "rank": "Captain",
+    "affiliation": "G-5 Base",
+    "justice": "Moral Justice",
+    "bounty": "Unknown",
+    "age": "23",
+    "status": "Active",
+    "fruit": null,
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/22/Tashigi_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 11,
+    "name": "X Drake",
+    "roman_name": "Diez Drake",
+    "rank": "Captain",
+    "affiliation": "SWORD",
+    "justice": "Unknown",
+    "bounty": "Unknown (Marine File)",
+    "age": "33",
+    "status": "Undercover",
+    "fruit": {
+      "name": "Ryu Ryu no Mi, Model: Allosaurus",
+      "type": "Ancient Zoan",
+      "description": "Allows the user to transform into an Allosaurus."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/69/X_Drake_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 12,
+    "name": "Hina",
+    "roman_name": "Hina",
+    "rank": "Rear Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Unknown",
+    "bounty": "Unknown",
+    "age": "34",
+    "status": "Active",
+    "fruit": {
+      "name": "Ori Ori no Mi",
+      "type": "Paramecia",
+      "description": "Allows the user to bind foes in iron shackles by passing through them."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Hina_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 13,
+    "name": "Sentomaru",
+    "roman_name": "Sentomaru",
+    "rank": "Officer",
+    "affiliation": "Science Unit",
+    "justice": "Unknown",
+    "bounty": "Unknown",
+    "age": "34",
+    "status": "Active",
+    "fruit": null,
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Sentomaru_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 14,
+    "name": "Helmeppo",
+    "roman_name": "Helmeppo",
+    "rank": "Lieutenant Commander",
+    "affiliation": "SWORD",
+    "justice": "Unknown",
+    "bounty": "Unknown",
+    "age": "22",
+    "status": "Active",
+    "fruit": null,
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Helmeppo_Anime_Post_Timeskip_Infobox.png"
+  },
+  {
+    "id": 15,
+    "name": "Momonga",
+    "roman_name": "Momonga",
+    "rank": "Vice Admiral",
+    "affiliation": "G-1 Base",
+    "justice": "Unknown",
+    "bounty": "Unknown",
+    "age": "48",
+    "status": "Active",
+    "fruit": null,
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/21/Momonga_Anime_Infobox.png"
+  },
+  {
+    "id": 16,
+    "name": "Prince Grus",
+    "roman_name": "Prince Grus",
+    "rank": "Rear Admiral",
+    "affiliation": "SWORD",
+    "justice": "Unknown",
+    "bounty": "Unknown",
+    "age": "Unknown",
+    "status": "Active",
+    "fruit": {
+      "name": "Gunyo Gunyo no Mi",
+      "type": "Paramecia",
+      "description": "Allows the user to create and control clay."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Prince_Grus_Anime_Infobox.png"
+  },
+  {
+    "id": 17,
+    "name": "Kujaku",
+    "roman_name": "Kujaku",
+    "rank": "Rear Admiral",
+    "affiliation": "SWORD",
+    "justice": "Unknown",
+    "bounty": "Unknown",
+    "age": "Unknown",
+    "status": "Active",
+    "fruit": {
+      "name": "Muchi Muchi no Mi",
+      "type": "Paramecia",
+      "description": "Allows the user to command anything they whip."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/1a/Kujaku_Anime_Infobox.png"
+  },
+  {
+    "id": 18,
+    "name": "T-Bone",
+    "roman_name": "T-Bone",
+    "rank": "Vice Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Kind Justice",
+    "bounty": "Cross Guild: Paid",
+    "age": "53",
+    "status": "Deceased",
+    "fruit": null,
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f6/T-Bone_Anime_Infobox.png"
+  },
+  {
+    "id": 19,
+    "name": "Onigumo",
+    "roman_name": "Onigumo",
+    "rank": "Vice Admiral",
+    "affiliation": "Marine Headquarters",
+    "justice": "Absolute Justice",
+    "bounty": "Unknown",
+    "age": "Unknown",
+    "status": "Active",
+    "fruit": {
+      "name": "Spider Zoan (Unknown Model)",
+      "type": "Zoan",
+      "description": "Allows user to sprout spider arms."
+    },
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/26/Onigumo_Anime_Infobox.png"
+  },
+  {
+    "id": 20,
+    "name": "Bogard",
+    "roman_name": "Bogard",
+    "rank": "Unknown (Officer)",
+    "affiliation": "Marine Headquarters",
+    "justice": "Unknown",
+    "bounty": "Unknown",
+    "age": "Unknown",
+    "status": "Active",
+    "fruit": null,
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Bogard_Anime_Infobox.png"
+  }
+]
