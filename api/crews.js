@@ -8,9 +8,8 @@ module.exports = (req, res) => {
     res.setHeader('Access-Control-Allow-Methods', 'GET');
     
     // 2. Locate the data file
-    const projectRoot = path.join(__dirname, '..', '..');
+    const projectRoot = path.join(__dirname, '..');
     const dataDir = path.join(projectRoot, 'data');
-    // Important: Matches the filename you mentioned created
     const filePath = path.join(dataDir, 'crews.json'); 
     
     // 3. Safety Check
