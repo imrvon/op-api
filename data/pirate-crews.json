@@ -1,0 +1,1300 @@
+[
+  {
+    "id": 1,
+    "name": "The Chapeau de Paille crew",
+    "description": "The main protagonist crew led by Monkey D. Luffy, sailing on the Thousand Sunny.",
+    "status": "assets",
+    "roman_name": "Mugiwara no Ichimi",
+    "total_prime": "3.161.000.100",
+    "number": "10",
+    "is_yonko": true
+  },
+  {
+    "id": 2,
+    "name": "Le Roux crew",
+    "description": "A powerful pirate crew led by Shanks, one of the Four Emperors.",
+    "status": "assets",
+    "roman_name": "Akagami Kaizokudan",
+    "total_prime": "4.142.900.000",
+    "number": "10",
+    "is_yonko": true
+  },
+  {
+    "id": 3,
+    "name": "The Alvida crew",
+    "description": "The first pirate crew encountered by Luffy, originally led by Iron Mace Alvida.",
+    "status": "assets",
+    "roman_name": "Arubida Kaizokudan",
+    "total_prime": "5.000.000",
+    "number": "5",
+    "is_yonko": false
+  },
+  {
+    "id": 4,
+    "name": "The Clown Crew",
+    "description": "Circus-themed pirates led by Buggy the Clown.",
+    "status": "assets",
+    "roman_name": "Bagī Kaizokudan",
+    "total_prime": "20.000.000",
+    "number": "8",
+    "is_yonko": false
+  },
+  {
+    "id": 5,
+    "name": "The Pirates Roger crew",
+    "description": "The legendary crew of the Pirate King, Gol D. Roger, the only crew to reach Laugh Tale.",
+    "status": "dissolved",
+    "roman_name": "Rojā Kaizoku Dan",
+    "total_prime": "5.564.800.000",
+    "number": "30",
+    "is_yonko": true
+  },
+  {
+    "id": 6,
+    "name": "Captain Usopp's crew",
+    "description": "A group of three children (Piiman, Ninjin, Tamanegi) led by Usopp in Syrup Village.",
+    "status": "dissolved",
+    "roman_name": "Usoppu Kaizokudan",
+    "total_prime": "200.000.000",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 7,
+    "name": "The Black Cat crew",
+    "description": "An East Blue crew formerly led by Captain Kuro, known for scheming and cat themes.",
+    "status": "unknown",
+    "roman_name": "Kuroneko Kaizoku Dan",
+    "total_prime": "32.000.000",
+    "number": "5",
+    "is_yonko": false
+  },
+  {
+    "id": 8,
+    "name": "Don Krieg's Pirate Armada",
+    "description": "The largest pirate fleet in the East Blue, led by Don Krieg.",
+    "status": "unknown",
+    "roman_name": "Kuriiku Kaizoku Kantai",
+    "total_prime": "29.000.000",
+    "number": "6",
+    "is_yonko": false
+  },
+  {
+    "id": 9,
+    "name": "Les Cuisiniers crew",
+    "description": "The crew led by Zeff before he retired to open the Baratie restaurant.",
+    "status": "dissolved",
+    "roman_name": "Kukku Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "1",
+    "is_yonko": false
+  },
+  {
+    "id": 10,
+    "name": "The Arlong crew",
+    "description": "A crew of Fish-Men led by Arlong who occupied the Conomi Islands.",
+    "status": "unknown",
+    "roman_name": "Āron Ichimi",
+    "total_prime": "42.5000.000",
+    "number": "10",
+    "is_yonko": false
+  },
+  {
+    "id": 11,
+    "name": "The Pirates Yes crew",
+    "description": "A minor pirate crew captured by Smoker in Loguetown.",
+    "status": "dissolved",
+    "roman_name": "Iesu Kaizokudan",
+    "total_prime": "3.000.000",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 12,
+    "name": "The Rumbar crew",
+    "description": "Brook's former music-loving crew, wiped out in the Florian Triangle.",
+    "status": "dissolved",
+    "roman_name": "Runbā Kaizoku-dan",
+    "total_prime": "33.000.000",
+    "number": "5",
+    "is_yonko": false
+  },
+  {
+    "id": 13,
+    "name": "The Giant Crew",
+    "description": "A legendary crew of giants from Elbaf led by Dorry and Brogy.",
+    "status": "dissolved",
+    "roman_name": "Kyo Hē Kaizoku-dan",
+    "total_prime": "200.000.000",
+    "number": "6",
+    "is_yonko": false
+  },
+  {
+    "id": 14,
+    "name": "The Bliking crew",
+    "description": "The crew formed by Wapol after fleeing the Drum Kingdom.",
+    "status": "unknown",
+    "roman_name": "Burikingu Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "",
+    "is_yonko": false
+  },
+  {
+    "id": 15,
+    "name": "The Tulip crew",
+    "description": "A minor pirate crew led by Yurika.",
+    "status": "unknown",
+    "roman_name": "Chūrippu Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "",
+    "is_yonko": false
+  },
+  {
+    "id": 16,
+    "name": "Whitebeard's crew",
+    "description": "The massive fleet led by Edward Newgate, formerly the strongest man in the world.",
+    "status": "unknown",
+    "roman_name": "Shirohige Kaizokudan",
+    "total_prime": "7.480.000.000",
+    "number": "1600",
+    "is_yonko": true
+  },
+  {
+    "id": 17,
+    "name": "Primate League",
+    "description": "An alliance led by Mont Blanc Cricket searching for the Sky Islands.",
+    "status": "unknown",
+    "roman_name": "Saruyama Rengō",
+    "total_prime": "84.000.000",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 18,
+    "name": "The Hakahoka crew",
+    "description": null,
+    "status": "unknown",
+    "roman_name": "Hokahoka Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 19,
+    "name": "the New Age crew",
+    "description": "Led by Bellamy the Hyena, they ridiculed dreams and served Doflamingo.",
+    "status": "dissolved",
+    "roman_name": "Beramī Kaizokudan",
+    "total_prime": "93.000.000",
+    "number": "9",
+    "is_yonko": false
+  },
+  {
+    "id": 20,
+    "name": "The Roshio crew",
+    "description": "Led by Roshio the Executioner, defeated by Bellamy in Mock Town.",
+    "status": "unknown",
+    "roman_name": "Roshio Kaizokudan",
+    "total_prime": "42.000.000",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 21,
+    "name": "Don Quixote's crew",
+    "description": "A powerful criminal organization led by Donquixote Doflamingo that ruled Dressrosa.",
+    "status": "inactive",
+    "roman_name": "Donkihōte Kaizokudan",
+    "total_prime": "1.113.000.000",
+    "number": "23",
+    "is_yonko": false
+  },
+  {
+    "id": 22,
+    "name": "Blackbeard's crew",
+    "description": "Led by Marshall D. Teach, focusing on hunting powerful Devil Fruits.",
+    "status": "assets",
+    "roman_name": "Kurohige Kaizokudan",
+    "total_prime": "2.445.800.000",
+    "number": "10",
+    "is_yonko": true
+  },
+  {
+    "id": 23,
+    "name": "The Fanged Toad crew",
+    "description": "A pirate crew defeated by Foxy in a Davy Back Fight.",
+    "status": "unknown",
+    "roman_name": "Kiba Gaeru Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 24,
+    "name": "The Foxy crew",
+    "description": "Pirates specializing in the Davy Back Fight games, led by Foxy the Silver Fox.",
+    "status": "assets",
+    "roman_name": "Fokushī Kaizokudan",
+    "total_prime": "24.000.000",
+    "number": "500",
+    "is_yonko": false
+  },
+  {
+    "id": 25,
+    "name": "The Gros Casques crew",
+    "description": "The Big Helmet Pirates, led by Mikazuki.",
+    "status": "unknown",
+    "roman_name": "Ō Kabuto Kaizokudan",
+    "total_prime": "36.000.000",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 26,
+    "name": "The Sun Pirates crew",
+    "description": "Formed by Fisher Tiger with freed Fish-Man slaves, later led by Jimbei.",
+    "status": "assets",
+    "roman_name": "Taiyō no Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "17",
+    "is_yonko": false
+  },
+  {
+    "id": 27,
+    "name": "Space Pirate",
+    "description": "Extraterrestrial pirates encountered by Enel on the Moon.",
+    "status": "unknown",
+    "roman_name": "Uchū Kaizoku",
+    "total_prime": "dissolved",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 28,
+    "name": "Thriller Bark",
+    "description": "The crew of Warlord Gecko Moria, utilizing zombies and shadows.",
+    "status": "unknown",
+    "roman_name": "Surirā Bāku",
+    "total_prime": "dissolved",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 29,
+    "name": "The crew of the Rolling",
+    "description": "Pirates led by Charlotte Lola found in the Florian Triangle.",
+    "status": "unknown",
+    "roman_name": "Rōringu Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 30,
+    "name": "The Marquereaux crew",
+    "description": "The Macro Pirates, a group of kidnappers formerly associated with Arlong.",
+    "status": "unknown",
+    "roman_name": "Makuro Ichimi",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 31,
+    "name": "The Candys crew",
+    "description": null,
+    "status": "dissolved",
+    "roman_name": "Kyandi Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 32,
+    "name": "The Hearth crew",
+    "description": "The Heart Pirates, led by Trafalgar Law, utilizing a yellow submarine.",
+    "status": "assets",
+    "roman_name": "Hāto no Kaizokudan",
+    "total_prime": "500.000.000",
+    "number": "11",
+    "is_yonko": false
+  },
+  {
+    "id": 33,
+    "name": "The Kid crew",
+    "description": "A violent crew led by Eustass Kid, known for high civilian casualties.",
+    "status": "assets",
+    "roman_name": "Kiddo Kaizokudan",
+    "total_prime": "670.000.000",
+    "number": "22",
+    "is_yonko": false
+  },
+  {
+    "id": 34,
+    "name": "The Hawkins crew",
+    "description": "Led by Basil Hawkins, who relies on tarot cards and voodoo magic.",
+    "status": "assets",
+    "roman_name": "Hōkinsu Kaizokudan",
+    "total_prime": "320.000.000",
+    "number": "6",
+    "is_yonko": false
+  },
+  {
+    "id": 35,
+    "name": "Drake's crew",
+    "description": "Led by X Drake, an undercover Marine officer.",
+    "status": "unknown",
+    "roman_name": "Dorēku Kaizokudan",
+    "total_prime": "222.000.000",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 36,
+    "name": "The On-Air crew",
+    "description": "Longarm Tribe pirates led by Scratchmen Apoo.",
+    "status": "assets",
+    "roman_name": "On Ea Kaizokudan",
+    "total_prime": "350.000.000",
+    "number": "10",
+    "is_yonko": false
+  },
+  {
+    "id": 37,
+    "name": "Bonney's crew",
+    "description": "Led by Jewelry Bonney, the Glutton.",
+    "status": "unknown",
+    "roman_name": "Bonī Kaizokudan",
+    "total_prime": "140.000.000",
+    "number": "7",
+    "is_yonko": false
+  },
+  {
+    "id": 38,
+    "name": "The Fire Tank crew",
+    "description": "A mafia-style pirate crew led by Capone Bege.",
+    "status": "assets",
+    "roman_name": "Faia Tanku Kaizokudan",
+    "total_prime": "485.000.000",
+    "number": "7",
+    "is_yonko": false
+  },
+  {
+    "id": 39,
+    "name": "The crew of Les Moines Dépravés",
+    "description": "The Fallen Monk Pirates led by Urouge from the Sky Islands.",
+    "status": "assets",
+    "roman_name": "Hakaisō Kaizokudan",
+    "total_prime": "108.000.000",
+    "number": "5",
+    "is_yonko": false
+  },
+  {
+    "id": 40,
+    "name": "The Acumates crew",
+    "description": null,
+    "status": "inactive",
+    "roman_name": "Akumeito Kaizokudan",
+    "total_prime": "60.000.000",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 41,
+    "name": "The Kuja Pirates crew",
+    "description": "An all-female crew from Amazon Lily led by Boa Hancock.",
+    "status": "assets",
+    "roman_name": "Kuja Kaizokudan",
+    "total_prime": "160.000.000",
+    "number": "14",
+    "is_yonko": false
+  },
+  {
+    "id": 42,
+    "name": "The Spade crew",
+    "description": "Portgas D. Ace's first pirate crew before he joined Whitebeard.",
+    "status": "unknown",
+    "roman_name": "Supēdo Kaizokudan",
+    "total_prime": "550.000.000",
+    "number": "20",
+    "is_yonko": false
+  },
+  {
+    "id": 43,
+    "name": "The crew of Barbe Brune",
+    "description": "The Brownbeard Pirates, active in the New World and Punk Hazard.",
+    "status": "unknown",
+    "roman_name": "Chahige Kaizokudan",
+    "total_prime": "80.060.000",
+    "number": "8",
+    "is_yonko": false
+  },
+  {
+    "id": 44,
+    "name": "The Hundred Beasts crew",
+    "description": "The massive army led by Kaido, comprised largely of artificial Zoan users.",
+    "status": "assets",
+    "roman_name": "Hyakujū Kaizokudan",
+    "total_prime": "11.179.100.000",
+    "number": "100",
+    "is_yonko": true
+  },
+  {
+    "id": 45,
+    "name": "The crew of the Lion d'Or",
+    "description": "Led by the legendary pirate Shiki the Golden Lion.",
+    "status": "unknown",
+    "roman_name": "Kinjishi Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 46,
+    "name": "The Bluejam crew",
+    "description": "East Blue pirates who worked for the nobility in the Goa Kingdom.",
+    "status": "unknown",
+    "roman_name": "Burūjamu Kaizoku-dan",
+    "total_prime": "17.700.000",
+    "number": "9",
+    "is_yonko": false
+  },
+  {
+    "id": 47,
+    "name": "The ASL crew",
+    "description": "The childhood brotherhood of Ace, Sabo, and Luffy.",
+    "status": "inactive",
+    "total_prime": "aucune",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 48,
+    "name": "Faux Equipage du Chapeau de Paille",
+    "description": "A group of impostors led by Demaro Black who impersonated Luffy's crew.",
+    "status": "unknown",
+    "roman_name": "Nise Mugiwara no Ichimi",
+    "total_prime": "26.000.000",
+    "number": "8",
+    "is_yonko": false
+  },
+  {
+    "id": 49,
+    "name": "The Caribou crew",
+    "description": "Rookie pirates led by the brothers Caribou and Coribou.",
+    "status": "unknown",
+    "roman_name": "Karibū Kaizokudan",
+    "total_prime": "400.000.000",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 50,
+    "name": "The New Fishmen crew",
+    "description": "An extremist group led by Hody Jones aiming to conquer Fish-Man Island.",
+    "status": "unknown",
+    "roman_name": "Shin Gyojin Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "10",
+    "is_yonko": false
+  },
+  {
+    "id": 51,
+    "name": "The Flying Pirates crew",
+    "description": "Led by Vander Decken IX aboard the Flying Dutchman.",
+    "status": "unknown",
+    "roman_name": "Furaingu Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "5",
+    "is_yonko": false
+  },
+  {
+    "id": 52,
+    "name": "Gyro's crew",
+    "description": "A pirate crew from the South Blue led by Gyro, defeated by Hody Jones.",
+    "status": "arrt",
+    "roman_name": "Jairo Kaizokudan",
+    "total_prime": "73.000.000",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 53,
+    "name": "Big Mom's crew",
+    "description": "A massive crew ruled by Charlotte Linlin consisting largely of her children.",
+    "status": "assets",
+    "roman_name": "Biggu Mamu Kaizokudan",
+    "total_prime": "11.121.500.000",
+    "number": "\u003E 85",
+    "is_yonko": true
+  },
+  {
+    "id": 54,
+    "name": "The Expedition crew",
+    "description": "Buggy's Pirate Dispatch Organization, a mercenary guild.",
+    "status": "assets",
+    "roman_name": "Bagīzu Deribarī",
+    "total_prime": "dissolved",
+    "number": "12",
+    "is_yonko": false
+  },
+  {
+    "id": 55,
+    "name": "The Magnificent Pirates crew",
+    "description": "Led by Cavendish of the White Horse, part of the Straw Hat Grand Fleet.",
+    "status": "assets",
+    "roman_name": "Utsukushiki Kaizoku-dan",
+    "total_prime": "397.000.000",
+    "number": "5",
+    "is_yonko": false
+  },
+  {
+    "id": 56,
+    "name": "Bartolomeo's crew",
+    "description": "The Barto Club, a crew of Straw Hat fanatics led by Bartolomeo.",
+    "status": "assets",
+    "roman_name": "Baruto Kurabu",
+    "total_prime": "267.000.000",
+    "number": "2",
+    "is_yonko": false
+  },
+  {
+    "id": 57,
+    "name": "Fleet Yonta Maria",
+    "description": "A massive fleet led by Orlumbus, part of the Straw Hat Grand Fleet.",
+    "status": "assets",
+    "roman_name": "Yonta Maria Dai-senda",
+    "total_prime": "50.000.000",
+    "number": "4300",
+    "is_yonko": false
+  },
+  {
+    "id": 58,
+    "name": "The crew of the Moon Crescent",
+    "description": "Led by Mikazuki, they were easily defeated by the Galley-La shipwrights.",
+    "status": "unknown",
+    "roman_name": "Mikadzuki no norikumiin",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 59,
+    "name": "The Diez Barrels crew",
+    "description": "Led by Diez Barrels (Drake's father), they attempted to sell the Ope Ope no Mi.",
+    "status": "unknown",
+    "roman_name": "Bareruzu Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "2",
+    "is_yonko": false
+  },
+  {
+    "id": 60,
+    "name": "XXX Gym Martial Arts Alliances",
+    "description": "A group of martial artists led by Ideo, part of the Straw Hat Grand Fleet.",
+    "status": "assets",
+    "roman_name": "Toripuru-Ekkusu Jimu Kakutō Rengō",
+    "total_prime": "dissolved",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 61,
+    "name": "New Giant Crew",
+    "description": "A pirate crew of giants led by Hajrudin, part of the Straw Hat Grand Fleet.",
+    "status": "assets",
+    "roman_name": "Shin Kyo Hē Kaizoku-dan",
+    "total_prime": "dissolved",
+    "number": "5",
+    "is_yonko": false
+  },
+  {
+    "id": 62,
+    "name": "The Rocks crew",
+    "description": "A legendary crew led by Rocks D. Xebec that included Big Mom, Kaido, and Whitebeard.",
+    "status": "inactive",
+    "roman_name": "Rokkusu Kaizokudan",
+    "total_prime": "500.000.000",
+    "number": "8",
+    "is_yonko": false
+  },
+  {
+    "id": 63,
+    "name": "the Ganzack crew",
+    "description": "The main antagonist crew from the OVA 'Defeat the Pirate Ganzack!'.",
+    "status": "unknown",
+    "roman_name": "Gyanzakku Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 64,
+    "name": "The Amigo crew",
+    "description": "Led by Largo, they appeared in the Little East Blue anime filler arc.",
+    "status": "unknown",
+    "roman_name": "Amīgo Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 65,
+    "name": "The Phoenix crew",
+    "description": "Led by Puzzle, they appeared in the Ice Hunter anime filler arc.",
+    "status": "unknown",
+    "roman_name": "Fenikkusu Kaizokudan",
+    "total_prime": "100.000.000",
+    "number": "10",
+    "is_yonko": false
+  },
+  {
+    "id": 66,
+    "name": "Bayan's crew",
+    "description": "Pirates appearing in the 'Great Gold Pirate' TV special.",
+    "status": "unknown",
+    "roman_name": "Baian Kaizoku-dan",
+    "total_prime": "dissolved",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 67,
+    "name": "The Schneider Pirates crew",
+    "description": "Led by Schneider, mentioned in the 'Dead End Adventure' movie.",
+    "status": "unknown",
+    "roman_name": "Shunaidā Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "2",
+    "is_yonko": false
+  },
+  {
+    "id": 68,
+    "name": "The Wetton crew",
+    "description": "Led by Wetton, they dominated Ruluka Island in an anime filler arc.",
+    "status": "unknown",
+    "roman_name": "Wetton Kaizoku-dan",
+    "total_prime": "14.800.000",
+    "number": "2",
+    "is_yonko": false
+  },
+  {
+    "id": 69,
+    "name": "Pumpkin Pirates",
+    "description": "A group of children trapped in the Rainbow Mist in an anime filler arc.",
+    "status": "dissolved",
+    "roman_name": "Panpukin Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "6",
+    "is_yonko": false
+  },
+  {
+    "id": 70,
+    "name": "The Red Arrows crew",
+    "description": null,
+    "status": "unknown",
+    "roman_name": "Reddo Arōzu Kaizokudan",
+    "total_prime": "1.000.000",
+    "number": "10",
+    "is_yonko": false
+  },
+  {
+    "id": 71,
+    "name": "The Pirates with Moustaches crew",
+    "description": null,
+    "status": "unknown",
+    "roman_name": "Chobihige Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 72,
+    "name": "The Trump Pirates crew",
+    "description": "Led by Bear King, antagonists of the 'Clockwork Island Adventure' movie.",
+    "status": "unknown",
+    "roman_name": "Toranpu Kyōdai",
+    "total_prime": "38.500.000",
+    "number": "8",
+    "is_yonko": false
+  },
+  {
+    "id": 73,
+    "name": "Gasparde's crew",
+    "description": "Led by Gasparde, former Marine turned pirate, from 'Dead End Adventure'.",
+    "status": "unknown",
+    "roman_name": "Gasupāde Kaizokudan",
+    "total_prime": "152.000.000",
+    "number": "6",
+    "is_yonko": false
+  },
+  {
+    "id": 74,
+    "name": "Zenny's crew",
+    "description": "Led by Zenny, a money-lender pirate from an anime filler arc.",
+    "status": "unknown",
+    "roman_name": "Zenī Kaizoku-dan",
+    "total_prime": "dissolved",
+    "number": "2",
+    "is_yonko": false
+  },
+  {
+    "id": 75,
+    "name": "The Pirates du Sables crew",
+    "description": "The Sand Pirates, a desert crew from the Alabasta filler episodes.",
+    "status": "unknown",
+    "roman_name": "Barubaru Dan",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 76,
+    "name": "The Tearoom crew",
+    "description": null,
+    "status": "unknown",
+    "roman_name": "Ochanoma Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 77,
+    "name": "The Pirates Treasure crew",
+    "description": "Led by Mad Treasure, treasure hunters from the 'Heart of Gold' special.",
+    "status": "inactive",
+    "roman_name": "Maddo Torejā Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 78,
+    "name": "Baroque Works",
+    "description": "A secret criminal organization led by Crocodile attempting to seize Alabasta.",
+    "status": "dissolved",
+    "roman_name": "Barokku Wākusu",
+    "total_prime": "399.700.00",
+    "number": "2000",
+    "is_yonko": false
+  },
+  {
+    "id": 79,
+    "name": "Royaume de Luvneel",
+    "description": "The Lvneel Kingdom in the North Blue, home of Mont Blanc Noland.",
+    "status": null,
+    "roman_name": "Rubunīru Ōkoku",
+    "is_yonko": false
+  },
+  {
+    "id": 80,
+    "name": "La Flotte de Happou",
+    "description": "The Happo Navy, a naval force from Kano Country led by the Chinjao Family.",
+    "status": "active",
+    "roman_name": "Happō Suigun",
+    "total_prime": "500.000.000",
+    "number": "4",
+    "is_yonko": false
+  },
+  {
+    "id": 81,
+    "name": "L'Équipage des Maquereaux",
+    "description": "The Macro Pirates (see 'The Marquereaux crew').",
+    "status": "dissolved",
+    "roman_name": "Makuro Ichimi",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 82,
+    "name": "Marine",
+    "description": "The World Government's military sea force responsible for law enforcement.",
+    "status": "active",
+    "roman_name": "Kaigun",
+    "is_yonko": false
+  },
+  {
+    "id": 83,
+    "name": "Dragon Célestes",
+    "description": "The World Nobles, descendants of the founders of the World Government.",
+    "status": "active",
+    "roman_name": "Sekai Kizoku",
+    "is_yonko": false
+  },
+  {
+    "id": 84,
+    "name": "Bigaro",
+    "description": null,
+    "status": "inactive",
+    "roman_name": "Shibarikubi no Bigaro",
+    "total_prime": "14.900.000",
+    "is_yonko": false
+  },
+  {
+    "id": 85,
+    "name": "L'Équipage de Mad Treasure",
+    "description": "See 'The Pirates Treasure crew' (Item 77).",
+    "status": "inactive",
+    "roman_name": "Maddo Torejā Kaizokudan",
+    "total_prime": "dissolved",
+    "number": "3",
+    "is_yonko": false
+  },
+  {
+    "id": 86,
+    "name": "Royaume de Tontatta",
+    "description": "The hidden kingdom of the Tontatta Tribe (dwarves) on Green Bit.",
+    "status": "active",
+    "roman_name": "Tontatta Ōkoku",
+    "number": "23",
+    "is_yonko": false
+  },
+  {
+    "id": 87,
+    "name": "Armarda du Chapeau de Paille",
+    "description": "The Straw Hat Grand Fleet, an alliance of seven crews serving under Luffy.",
+    "status": "active",
+    "roman_name": "Mugiwara Dai-sendan",
+    "total_prime": "1.022.000",
+    "number": "5640",
+    "is_yonko": false
+  },
+  {
+    "id": 88,
+    "name": "Baggy's Delivery",
+    "description": "A pirate mercenary guild organized and led by Buggy the Clown.",
+    "status": "active",
+    "roman_name": "Bagīzu Deribarī",
+    "total_prime": "344.000.000",
+    "number": "22",
+    "is_yonko": false
+  },
+  {
+    "id": 89,
+    "name": "Buggy's Delivery",
+    "description": "Duplicate entry for Buggy's Delivery (Baggy's Delivery).",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 90,
+    "name": "Cipher Pol",
+    "description": "Secret intelligence agencies of the World Government (CP0-CP9).",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 91,
+    "name": "Enies Lobby",
+    "description": "The 'Judicial Island', one of the World Government's three main strongholds.",
+    "status": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 92,
+    "name": "Impel Down",
+    "description": "The World Government's maximum-security underwater prison.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 93,
+    "name": "Royaume de Goa",
+    "description": "A kingdom in the East Blue where Luffy, Ace, and Sabo grew up.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 94,
+    "name": "Village de Shimotsuki",
+    "description": "A village in the East Blue where Zoro trained at his dojo.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 95,
+    "name": "Archipel des Argao",
+    "description": "The Organ Archipelago, a location in the East Blue.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 96,
+    "name": "Île des animaux étranges",
+    "description": "The Island of Rare Animals, guarded by Gaimon.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 97,
+    "name": "Archipel des Gecko",
+    "description": "The Gecko Islands, home to Syrup Village and Usopp.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 98,
+    "name": "Baratie",
+    "description": "A sea-going restaurant ship run by Zeff and Sanji's former workplace.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 99,
+    "name": "Archipel Conomi",
+    "description": "The Conomi Islands, home to Nami's Cocoyasi Village.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 100,
+    "name": "Loguetown",
+    "description": "The town of the beginning and the end, where Roger was executed.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 101,
+    "name": "Royaume de Lvneel",
+    "description": "See 'Royaume de Luvneel' (Item 79).",
+    "status": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 102,
+    "name": "Baterilla",
+    "description": "An island in the South Blue where Rouge lived and Ace was born.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 103,
+    "name": "Royaume maléfique de Black Drum",
+    "description": "The new kingdom established by Wapol in the South Blue.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 104,
+    "name": "Ohara",
+    "description": "An island of archaeologists in the West Blue, destroyed by a Buster Call.",
+    "status": "inactive",
+    "is_yonko": false
+  },
+  {
+    "id": 105,
+    "name": "Pays des fleurs",
+    "description": "Kano Country (Land of Flowers) in the West Blue, home to the Happo Navy.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 106,
+    "name": "Reverse Mountain",
+    "description": "The mountain entrance to the Grand Line where currents flow upward.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 107,
+    "name": "Île aux cactus",
+    "description": "Whisky Peak, an island shaped like cactus mountains inhabited by bounty hunters.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 108,
+    "name": "Little Garden",
+    "description": "A prehistoric island where the giants Dorry and Brogy dueled for a century.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 109,
+    "name": "Île de Drum",
+    "description": "A winter island known for its advanced medicine and pink snow, Chopper's home.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 110,
+    "name": "Alabasta",
+    "description": "A desert kingdom in the Grand Line ruled by the Nefertari family.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 111,
+    "name": "Long Ring Long Land",
+    "description": "An archipelago of islands connected by land bridges during low tide.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 112,
+    "name": "Source de l'insouciance",
+    "description": null,
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 113,
+    "name": "Water Seven",
+    "description": "The metropolis of water, famous for its shipwrights and the Sea Train.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 114,
+    "name": "Archipel des Sabaody",
+    "description": "A mangrove archipelago and the final stop before the New World.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 115,
+    "name": "Archipel de Boing",
+    "description": "The Boin Archipelago, a series of giant carnivorous plants where Usopp trained.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 116,
+    "name": "Erbaf",
+    "description": "Elbaf, the kingdom of giants in the New World.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 117,
+    "name": "Pays des Wa",
+    "description": "Wano Country, a samurai nation isolated from the world.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 118,
+    "name": "Punk Hazard",
+    "description": "An island half-frozen and half-burning, site of the Akainu vs. Aokiji duel.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 119,
+    "name": "Dressrosa",
+    "description": "The Kingdom of Love and Passion, ruled by Doflamingo before his defeat.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 120,
+    "name": "Green Bit",
+    "description": "An island north of Dressrosa inhabited by the Tontatta Tribe.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 121,
+    "name": "Zo",
+    "description": "Zou, a moving island located on the back of the giant elephant Zunesha.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 122,
+    "name": "Royaume de Prodence",
+    "description": "The Prodence Kingdom, ruled by Elizabello II.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 123,
+    "name": "Royaume de Mogalo",
+    "description": "The Mogaro Kingdom, home of the Funk Brothers.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 124,
+    "name": "Royaume de Germa",
+    "description": "The Germa Kingdom, a seafaring nation without land ruled by the Vinsmoke family.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 125,
+    "name": "Sphinx",
+    "description": "Whitebeard's home village, currently protected by Marco.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 126,
+    "name": "Skypiea",
+    "description": "A Sky Island located on the White-White Sea.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 127,
+    "name": "Weatheria",
+    "description": "A sky island focused on weather science where Nami trained.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 128,
+    "name": "Île des hommes-poissons",
+    "description": "Fish-Man Island, located underwater directly beneath the Red Line.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 129,
+    "name": "La lune",
+    "description": "The Moon (Fairy Vearth), where Enel established a new kingdom.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 130,
+    "name": "Armée Révolutionnaire",
+    "description": "A powerful military organization led by Monkey D. Dragon fighting the World Government.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 131,
+    "name": "Anciens membres du Baroque Works",
+    "description": "Former agents of Crocodile's organization.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 132,
+    "name": "Anciens membres du Cipher Pol",
+    "description": "Former agents of the World Government's intelligence agencies.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 133,
+    "name": "Anciens membres de la Marine",
+    "description": "Former marines who have resigned or defected (e.g., Aokiji).",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 134,
+    "name": "Esclave",
+    "description": "Individuals enslaved by the World Nobles or pirates.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 135,
+    "name": "Frères Voleurs",
+    "description": null,
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 136,
+    "name": "IÎle de la couronne",
+    "description": "Crown Island, setting of the 'Chopper's Kingdom on the Island of Strange Animals' movie.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 137,
+    "name": "Île d'Asuka",
+    "description": "Asuka Island, setting of 'The Cursed Holy Sword' movie.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 138,
+    "name": "Pirate des flèches rouges",
+    "description": null,
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 139,
+    "name": "Pirate au foyer",
+    "description": null,
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 140,
+    "name": "Pirate Moustachus",
+    "description": null,
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 141,
+    "name": "Île de Mecha",
+    "description": "Mecha Island, setting of 'The Giant Mechanical Soldier of Karakuri Castle' movie.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 142,
+    "name": "Néo Marine",
+    "description": "A radical splinter group of the Marines led by Zephyr (Film Z).",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 143,
+    "name": "Gran Tesero",
+    "description": "A massive golden ship and entertainment city led by Gild Tesoro (Film Gold).",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 144,
+    "name": "Elegia",
+    "description": "The Island of Music, setting of 'One Piece Film: Red'.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 145,
+    "name": "World Economic Journal",
+    "description": "The primary newspaper publishing agency in the world, led by Morgans.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 146,
+    "name": "Cap des Jumeaux",
+    "description": "Twin Cape, the lighthouse located at the exit of Reverse Mountain.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 147,
+    "name": "Equipage de Bellamy",
+    "description": "Duplicate/Translated entry for the Bellamy Pirates.",
+    "status": "active",
+    "is_yonko": false
+  },
+  {
+    "id": 148,
+    "name": "Equipage de Pandaman",
+    "description": null,
+    "status": "dissolved",
+    "is_yonko": false
+  },
+  {
+    "id": 149,
+    "name": "Equipage de Bigalo",
+    "description": null,
+    "status": "dissolved",
+    "is_yonko": false
+  }
+]
