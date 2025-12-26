@@ -1,7 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Monkey D Luffy",
+    "name": "Monkey D. Luffy",
+    "description": "The captain of the Straw Hat Pirates and the son of the Revolutionary Dragon. He ate the Gum-Gum Fruit, becoming a rubber man. His dream is to find the One Piece and become the King of the Pirates.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766108977/One%20Piece/luffy_pu71wy.webp",
     "size": "174cm",
     "age": "19 ans",
@@ -12,13 +13,14 @@
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": {
       "id": 1,
       "name": "Gum-Gum Fruit",
-      "description": "Grants rubber-like properties to the user's body",
+      "description": "Grants rubber-like properties to the user's body.",
       "type": "Paramecia",
       "roman_name": "Gomu Gomu no Mi",
       "filename": "https://images.api-onepiece.com/fruits/5665e89442022d4c0e7684c650dc6d6b.png"
@@ -27,95 +29,105 @@
   {
     "id": 2,
     "name": "Roronoa Zoro",
+    "description": "A master swordsman and the first member to join the Straw Hat Pirates. He practices the Three Sword Style (Santoryu) and aims to defeat Dracule Mihawk to become the World's Greatest Swordsman.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766109298/One%20Piece/zoro_hmiiah.webp",
     "size": "181cm",
     "age": "21 ans",
-    "bounty": "320000000",
+    "bounty": "1111000000",
     "job": "Swordsman",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": null
   },
   {
     "id": 3,
     "name": "Nami",
+    "description": "The navigator of the Straw Hat Pirates and a former thief specializing in robbing pirates. She is an expert in meteorology and cartography, dreaming of drawing a map of the entire world.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766109530/One%20Piece/nami_tdz9re.webp",
     "size": "170cm",
     "age": "20 ans",
-    "bounty": "66000000",
+    "bounty": "366000000",
     "job": "Navigator",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": null
   },
   {
     "id": 4,
     "name": "Usopp",
+    "description": "The sniper of the Straw Hat Pirates and a talented liar. Son of Yasopp, he dreams of becoming a 'Brave Warrior of the Sea' like the giants of Elbaf.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766109811/One%20Piece/usopp_wupm4y.webp",
     "size": "176cm",
     "age": "19 ans",
-    "bounty": "200000000",
+    "bounty": "500000000",
     "job": "Sniper",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": null
   },
   {
     "id": 5,
-    "name": "Sanji",
+    "name": "Vinsmoke Sanji",
+    "description": "The cook of the Straw Hat Pirates and a former prince of the Germa Kingdom. A master of the Black Leg style who refuses to use his hands in combat. His dream is to find the All Blue.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110030/One%20Piece/sanji_kzwiz5.webp",
     "size": "180cm",
     "age": "21 ans",
-    "bounty": "330000000",
+    "bounty": "1032000000",
     "job": "Cook",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": null
   },
   {
     "id": 6,
-    "name": "Tony-Tony Chopper",
+    "name": "Tony Tony Chopper",
+    "description": "The doctor of the Straw Hat Pirates. He is a reindeer that ate the Human-Human Fruit, giving him human intelligence and transformation abilities. He dreams of becoming a doctor who can cure any disease.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110151/One%20Piece/chopper_djghjs.webp",
     "size": "90cm",
     "age": "17 ans",
-    "bounty": "100",
+    "bounty": "1000",
     "job": "Doctor",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": {
       "id": 92,
-      "name": "Fruit of the Human",
-      "description": "whoever eats it becomes half-human. As the user was originally a reindeer, he acquired an intelligence that enabled him to acquire a vast amount of knowledge. Before the ellipse, Chopper had to take a Rumble-Ball to get more transformations for 3 minutes1 (if after 3 minutes he took another Rumble-Ball, he no longer controlled his transformations, and if he took a 3rd Rumble-Ball, he became a gigantic but unconscious monster, destroying enemies and allies alike). After the ellipse, he masters all transformations perfectly, and when he takes a Rumble-Ball he becomes the gigantic monster, but in control of himself.",
+      "name": "Human-Human Fruit",
+      "description": "Allows the user to transform into a human hybrid or a full human at will.",
       "type": "Zoan",
       "filename": "https://images.api-onepiece.com/fruits/28c479a3d76524452745f40bde7a0c37.png",
       "roman_name": "Hito Hito no Mi"
@@ -124,23 +136,25 @@
   {
     "id": 7,
     "name": "Nico Robin",
+    "description": "The archaeologist of the Straw Hat Pirates and the sole survivor of Ohara. She is the only person alive who can read Poneglyphs, making her key to finding the One Piece.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110293/One%20Piece/nico_d759yx.webp",
     "size": "188cm",
     "age": "30 ans",
-    "bounty": "130000000",
+    "bounty": "930000000",
     "job": "Archaeologist",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": {
       "id": 6,
-      "name": "Fruit Des Éclosions",
-      "description": "Allows the user to grow body parts (or even clones) anywhere, even on another person. He can assemble several copies of the same limb to create, for example, giant hands, or create clones of himself to deceive opponents.",
+      "name": "Flower-Flower Fruit",
+      "description": "Allows the user to sprout pieces of their body from the surface of any object or living thing.",
       "type": "Paramecia",
       "filename": "https://images.api-onepiece.com/fruits/5f82c2c5df83335a916f98dc3b09eade.png",
       "roman_name": "Hana Hana no Mi"
@@ -149,41 +163,45 @@
   {
     "id": 8,
     "name": "Franky",
+    "description": "The shipwright of the Straw Hat Pirates and a cyborg. He built the Thousand Sunny and dreams of creating a ship capable of circumnavigating the world.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110445/One%20Piece/franky_ustmhc.webp",
     "size": "240cm",
     "age": "36 ans",
-    "bounty": "94000000",
-    "job": "Carpenter",
+    "bounty": "394000000",
+    "job": "Shipwright",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": null
   },
   {
     "id": 9,
     "name": "Brook",
+    "description": "The musician of the Straw Hat Pirates. He is a living skeleton who returned to life thanks to the Revive-Revive Fruit. He wishes to reunite with the whale Laboon.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110578/One%20Piece/brook_arcsha.webp",
     "size": "277cm",
     "age": "90 ans",
-    "bounty": "83000000",
+    "bounty": "383000000",
     "job": "Musician",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": {
       "id": 21,
-      "name": "Fruit of the Resurrection",
-      "description": "Allows the owner to come back to life after death (this power only works once). Its possessor can take his soul out of his body, take it through walls and return it to his body as he wishes. Similarly, if his head is cut off, his fruit enables him to bring it back to his shoulders by sheer force of will (the soul is still connected to his body). If his power is combined with a sword, he can freeze any enemy he touches, thanks to the icy cold of the depths that his soul brings to his sword.",
+      "name": "Revive-Revive Fruit",
+      "description": "Allows the user to bring their soul back to their body after death, and manipulate their soul.",
       "type": "Paramecia",
       "filename": "https://images.api-onepiece.com/fruits/56fc9cdf59bcd8a6e53b3e7c31e11005.png",
       "roman_name": "Yomi Yomi no Mi"
@@ -192,29 +210,32 @@
   {
     "id": 10,
     "name": "Jinbe",
+    "description": "The helmsman of the Straw Hat Pirates and a former Warlord of the Sea. A master of Fish-Man Karate, he dreams of true equality between humans and Fish-Men.",
     "image": "https://res.cloudinary.com/dbk4ytgpj/image/upload/v1766110744/One%20Piece/jinbe_mrkwk0.webp",
     "size": "301cm",
     "age": "46 ans",
-    "bounty": "438000000",
+    "bounty": "1100000000",
     "job": "Helmsman",
     "status": "living",
     "crew": {
       "id": 1,
       "name": "Straw Hat Pirates",
       "roman_name": "Mugiwara no Ichimi",
-      "total_prime": "3161000100",
-      "is_yonko": true
+      "total_prime": "8816001000",
+      "is_yonko": true,
+      "description": "A powerful and infamous pirate crew originating from East Blue, led by Monkey D. Luffy."
     },
     "fruit": null
   },
   {
     "id": 11,
     "name": "Zeus",
+    "description": "A thundercloud homie originally created by Big Mom using her own soul. He is now Nami's loyal partner and resides within her Clima-Tact.",
     "image": null,
     "size": "232cm",
     "age": "Unknown",
     "bounty": "0",
-    "job": "Nami's Partner / Thundercloud",
+    "job": "Nami's Weapon",
     "status": "living",
     "crew": {
       "id": 1,
@@ -229,6 +250,7 @@
   {
     "id": 12,
     "name": "Cavendish",
+    "description": "The captain of the Beautiful Pirates and the 1st ship captain of the Straw Hat Grand Fleet. He suffers from a split personality disorder, becoming the bloodthirsty Hakuba when he sleeps.",
     "image": null,
     "size": "208cm",
     "age": "26 ans",
@@ -248,6 +270,7 @@
   {
     "id": 13,
     "name": "Suleiman",
+    "description": "A former war criminal known as 'Suleiman the Beheader'. He joined the Beautiful Pirates and is a member of the Straw Hat Grand Fleet.",
     "image": null,
     "size": "240cm",
     "age": "40 ans",
@@ -267,6 +290,7 @@
   {
     "id": 14,
     "name": "Bartolomeo",
+    "description": "Captain of the Barto Club and the 2nd ship captain of the Straw Hat Grand Fleet. He is a massive fan of the Straw Hat Pirates and uses the Barrier-Barrier Fruit.",
     "image": null,
     "size": "220cm",
     "age": "24 ans",
@@ -284,7 +308,7 @@
     "fruit": {
       "id": 47,
       "name": "Barrier-Barrier Fruit",
-      "description": "Enables its user to generate almost invisible barriers to deflect or block any attack. These barriers can take on a wide range of shapes.",
+      "description": "Enables its user to generate almost invisible barriers to deflect or block any attack.",
       "type": "Paramecia",
       "roman_name": "Bari Bari no Mi",
       "filename": "https://images.api-onepiece.com/fruits/bari_bari.png"
@@ -293,6 +317,7 @@
   {
     "id": 15,
     "name": "Gambia",
+    "description": "A staff officer of the Barto Club known as 'The Missionary'. He fights using a nunchaku.",
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
@@ -312,6 +337,7 @@
   {
     "id": 16,
     "name": "Sai",
+    "description": "The 13th leader of the Happo Navy and the 3rd ship captain of the Straw Hat Grand Fleet. He uses the Hasshoken martial art style.",
     "image": null,
     "size": "242cm",
     "age": "28 ans",
@@ -331,6 +357,7 @@
   {
     "id": 17,
     "name": "Boo",
+    "description": "The vice-leader of the Happo Navy and Sai's brother. He fights using axes imbued with Hasshoken.",
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
@@ -350,11 +377,12 @@
   {
     "id": 18,
     "name": "Baby 5",
+    "description": "A former assassin for the Donquixote Family who married Sai. She ate the Arms-Arms Fruit and can transform her body into any weapon.",
     "image": null,
     "size": "181cm",
     "age": "24 ans",
     "bounty": "0",
-    "job": "Sniper / Fiancee",
+    "job": "Sniper",
     "status": "living",
     "crew": {
       "id": 87,
@@ -376,6 +404,7 @@
   {
     "id": 19,
     "name": "Ideo",
+    "description": "A martial artist from the Longarm Tribe and captain of the Ideo Pirates (4th ship of the Grand Fleet). Known as 'The Destruction Cannon'.",
     "image": null,
     "size": "225cm",
     "age": "22 ans",
@@ -395,6 +424,7 @@
   {
     "id": 20,
     "name": "Blue Gilly",
+    "description": "A martial artist from the Longleg Tribe who joined the Ideo Pirates. He specializes in the Jao Kun Do fighting style.",
     "image": null,
     "size": "314cm",
     "age": "24 ans",
@@ -414,6 +444,7 @@
   {
     "id": 21,
     "name": "Abdullah",
+    "description": "A former bounty hunter who joined the Ideo Pirates. He fights using spears and dirty tactics alongside his partner Jeet.",
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
@@ -433,6 +464,7 @@
   {
     "id": 22,
     "name": "Jeet",
+    "description": "A former bounty hunter who joined the Ideo Pirates. He fights using dual swords alongside his partner Abdullah.",
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
@@ -452,6 +484,7 @@
   {
     "id": 23,
     "name": "Leo",
+    "description": "A dwarf from the Tontatta Kingdom and captain of the Tontatta Pirates (5th ship of the Grand Fleet). He uses the Stitch-Stitch Fruit.",
     "image": null,
     "size": "23cm",
     "age": "25 ans",
@@ -469,7 +502,7 @@
     "fruit": {
       "id": 48,
       "name": "Stitch-Stitch Fruit",
-      "description": "Allows the user to sew and unstitch anything on flat surfaces. These seams are strong enough to hold people hooked to the floor.",
+      "description": "Allows the user to sew and unstitch anything on flat surfaces.",
       "type": "Paramecia",
       "roman_name": "Nui Nui no Mi",
       "filename": "https://images.api-onepiece.com/fruits/nui_nui.png"
@@ -478,11 +511,12 @@
   {
     "id": 24,
     "name": "Kabu",
+    "description": "A dwarf of the Tontatta Tribe and the Yellow Kabu Squad Leader. He ate a Zoan fruit that turns him into a Rhinoceros Beetle.",
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
     "bounty": "0",
-    "job": "Tontatta Warrior",
+    "job": "Warrior",
     "status": "living",
     "crew": {
       "id": 87,
@@ -504,11 +538,12 @@
   {
     "id": 25,
     "name": "Bian",
+    "description": "A dwarf of the Tontatta Tribe and the Pink Bee Squad Leader. She ate a Zoan fruit that turns her into a Hornet.",
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
     "bounty": "0",
-    "job": "Tontatta Warrior",
+    "job": "Warrior",
     "status": "living",
     "crew": {
       "id": 87,
@@ -530,6 +565,7 @@
   {
     "id": 26,
     "name": "Hajrudin",
+    "description": "A giant warrior from Elbaf and captain of the New Giant Warrior Pirates (6th ship of the Grand Fleet). He dreams of reviving the glory of the Giant Warrior Pirates.",
     "image": null,
     "size": "2200cm",
     "age": "81 ans",
@@ -549,6 +585,7 @@
   {
     "id": 27,
     "name": "Stansen",
+    "description": "A giant from Elbaf and the shipwright of the New Giant Warrior Pirates. He was formerly imprisoned at the Human Auction House.",
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
@@ -568,6 +605,7 @@
   {
     "id": 28,
     "name": "Road",
+    "description": "A giant from Elbaf and the navigator of the New Giant Warrior Pirates. He is usually seen with a large snake.",
     "image": null,
     "size": "Unknown",
     "age": "63 ans",
@@ -587,6 +625,7 @@
   {
     "id": 29,
     "name": "Goldberg",
+    "description": "A giant from Elbaf and the cook of the New Giant Warrior Pirates. He carries a large shield and mace.",
     "image": null,
     "size": "Unknown",
     "age": "63 ans",
@@ -606,6 +645,7 @@
   {
     "id": 30,
     "name": "Gerd",
+    "description": "A female giant from Elbaf and the doctor of the New Giant Warrior Pirates. She wields a massive battle axe.",
     "image": null,
     "size": "Unknown",
     "age": "75 ans",
@@ -625,6 +665,7 @@
   {
     "id": 31,
     "name": "Orlumbus",
+    "description": "An admiral commanding the Yonta Maria Grand Fleet and the 7th ship captain of the Straw Hat Grand Fleet. He is known for his strict discipline.",
     "image": null,
     "size": "480cm",
     "age": "42 ans",
@@ -644,6 +685,7 @@
   {
     "id": 32,
     "name": "Buggy the Clown",
+    "description": "One of the Four Emperors and leader of the Cross Guild. He was an apprentice on Roger's ship alongside Shanks and is famous for his incredible luck.",
     "image": null,
     "size": "192cm",
     "age": "39 ans",
@@ -661,7 +703,7 @@
     "fruit": {
       "id": 2,
       "name": "Chop-Chop Fruit",
-      "description": "Allows the user to separate their body into several parts and levitate them independently. Makes the user immune to cutting attacks.",
+      "description": "Allows the user to separate their body into several parts and levitate them independently.",
       "type": "Paramecia",
       "roman_name": "Bara Bara no Mi",
       "filename": "https://images.api-onepiece.com/fruits/bara_bara.png"
@@ -670,6 +712,7 @@
   {
     "id": 33,
     "name": "Alvida",
+    "description": "Known as 'Iron Mace' Alvida, she is a pirate captain allied with Buggy. After eating the Slip-Slip Fruit, she became incredibly beautiful and slippery.",
     "image": null,
     "size": "198cm",
     "age": "27 ans",
@@ -696,6 +739,7 @@
   {
     "id": 34,
     "name": "Galdino (Mr. 3)",
+    "description": "A former Baroque Works officer who joined Buggy. He is a tactician who can create objects out of wax.",
     "image": null,
     "size": "179cm",
     "age": "37 ans",
@@ -713,7 +757,7 @@
     "fruit": {
       "id": 7,
       "name": "Wax-Wax Fruit",
-      "description": "Produces a fast-hardening wax that can be molded into any shape and becomes very resistant when hardened.",
+      "description": "Produces a fast-hardening wax that can be molded into any shape.",
       "type": "Paramecia",
       "roman_name": "Doru Doru no Mi",
       "filename": "https://images.api-onepiece.com/fruits/doru_doru.png"
@@ -722,6 +766,7 @@
   {
     "id": 35,
     "name": "Mohji",
+    "description": "The first mate of the Buggy Pirates and a beast tamer. He is rarely seen without his giant pet lion, Richie.",
     "image": null,
     "size": "197cm",
     "age": "29 ans",
@@ -741,6 +786,7 @@
   {
     "id": 36,
     "name": "Cabaji",
+    "description": "The chief of staff of the Buggy Pirates. He is an acrobat swordsman who uses unicycles and spinning tops in combat.",
     "image": null,
     "size": "208cm",
     "age": "34 ans",
@@ -760,6 +806,7 @@
   {
     "id": 37,
     "name": "Kuro",
+    "description": "The captain of the Black Cat Pirates, known for his high intellect and speed. He uses 'Cat Claws' as weapons and faked his death to live peacefully.",
     "image": null,
     "size": "207cm",
     "age": "35 ans",
@@ -779,6 +826,7 @@
   {
     "id": 38,
     "name": "Sham",
+    "description": "One of the Nyaban Brothers of the Black Cat Pirates. He fights cooperatively with Buchi and pretends to be weak to lower opponents' guard.",
     "image": null,
     "size": "201cm",
     "age": "23 ans",
@@ -798,6 +846,7 @@
   {
     "id": 39,
     "name": "Buchi",
+    "description": "One of the Nyaban Brothers of the Black Cat Pirates. He is the stronger and larger of the duo, using his weight to crush enemies.",
     "image": null,
     "size": "216cm",
     "age": "23 ans",
@@ -817,6 +866,7 @@
   {
     "id": 40,
     "name": "Don Krieg",
+    "description": "The Admiral of the Krieg Pirates and the most feared pirate in East Blue before entering the Grand Line. He relies on massive weaponry and armor.",
     "image": null,
     "size": "243cm",
     "age": "44 ans",
@@ -836,6 +886,7 @@
   {
     "id": 41,
     "name": "Gin",
+    "description": "The Combat Commander of the Krieg Pirates and Don Krieg's right-hand man. He fights using tonfas and has a strong sense of loyalty.",
     "image": null,
     "size": "186cm",
     "age": "27 ans",
@@ -855,6 +906,7 @@
   {
     "id": 42,
     "name": "Pearl",
+    "description": "A commander of the Krieg Pirates known as 'Iron Wall Pearl'. He wears large shields on his body and can ignite them with fire.",
     "image": null,
     "size": "239cm",
     "age": "25 ans",
@@ -874,6 +926,7 @@
   {
     "id": 43,
     "name": "Mont Blanc Cricket",
+    "description": "A descendant of Mont Blanc Noland living on Jaya. He spent years diving for the City of Gold to clear his ancestor's name.",
     "image": null,
     "size": "242cm",
     "age": "43 ans",
@@ -893,6 +946,7 @@
   {
     "id": 44,
     "name": "Masira",
+    "description": "The Salvage King and leader of the Masira Pirates. He is a human who looks remarkably like a monkey and is allied with Cricket.",
     "image": null,
     "size": "345cm",
     "age": "25 ans",
@@ -912,6 +966,7 @@
   {
     "id": 45,
     "name": "Shoujou",
+    "description": "The Sonar King and leader of the Shoujou Pirates. Like his brother Masira, he resembles a monkey and uses his voice as a sonar.",
     "image": null,
     "size": "351cm",
     "age": "27 ans",
@@ -931,6 +986,7 @@
   {
     "id": 46,
     "name": "Foxy",
+    "description": "The captain of the Foxy Pirates, known as the 'Silver Fox'. He is a master of the Davy Back Fight and uses the Slow-Slow Fruit to cheat.",
     "image": null,
     "size": "180cm",
     "age": "38 ans",
@@ -957,6 +1013,7 @@
   {
     "id": 47,
     "name": "Porche",
+    "description": "The idol of the Foxy Pirates and Foxy's loyal subordinate. She fights using batons and shurikens hidden as flowers.",
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
@@ -979,6 +1036,7 @@
     "image": null,
     "size": "Unknown",
     "age": "Unknown",
+    "description": "A member of the Foxy Pirates and leader of the Groggy Monsters. He is very fast despite his size and fights as a team.",
     "bounty": "0",
     "job": "Combatant",
     "status": "living",
@@ -995,6 +1053,7 @@
   {
     "id": 49,
     "name": "Gecko Moria",
+    "description": "A former Warlord of the Sea and captain of the Thriller Bark Pirates. He steals shadows to create zombie armies.",
     "image": null,
     "size": "692cm",
     "age": "50 ans",
@@ -1021,6 +1080,7 @@
   {
     "id": 50,
     "name": "Dr. Hogback",
+    "description": "A genius surgeon and member of the Thriller Bark Pirates. He constructs the bodies for Moria's zombies.",
     "image": null,
     "size": "223cm",
     "age": "47 ans",
@@ -1036,3409 +1096,5 @@
       "description": "A zombie-themed crew led by Gecko Moria."
     },
     "fruit": null
-  },
-  {
-    "id": 51,
-    "name": "Absalom",
-    "image": null,
-    "size": "195cm",
-    "age": "36 ans",
-    "bounty": "0",
-    "job": "Soldier Zombie Commander / Mysterious Four",
-    "status": "deceased",
-    "crew": {
-      "id": 28,
-      "name": "Thriller Bark Pirates",
-      "roman_name": "Surirā Bāku",
-      "total_prime": "Unknown",
-      "is_yonko": false,
-      "description": "A zombie-themed crew led by Gecko Moria."
-    },
-    "fruit": {
-      "id": 24,
-      "name": "Clear-Clear Fruit",
-      "description": "Enables the user to turn themselves and anything they touch invisible.",
-      "type": "Paramecia",
-      "roman_name": "Suke Suke no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/suke_suke.png"
-    }
-  },
-  {
-    "id": 52,
-    "name": "Perona",
-    "image": null,
-    "size": "160cm",
-    "age": "25 ans",
-    "bounty": "0",
-    "job": "Wild Zombie Commander / Mysterious Four",
-    "status": "living",
-    "crew": {
-      "id": 28,
-      "name": "Thriller Bark Pirates",
-      "roman_name": "Surirā Bāku",
-      "total_prime": "Unknown",
-      "is_yonko": false,
-      "description": "A zombie-themed crew led by Gecko Moria."
-    },
-    "fruit": {
-      "id": 23,
-      "name": "Hollow-Hollow Fruit",
-      "description": "Allows the user to create ghosts that drain the spirit/morale of their victims or serve as spies.",
-      "type": "Paramecia",
-      "roman_name": "Horo Horo no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/horo_horo.png"
-    }
-  },
-  {
-    "id": 53,
-    "name": "Charlotte Lola",
-    "image": null,
-    "size": "215cm",
-    "age": "26 ans",
-    "bounty": "24000000",
-    "job": "Captain",
-    "status": "living",
-    "crew": {
-      "id": 29,
-      "name": "Rolling Pirates",
-      "roman_name": "Rōringu Kaizokudan",
-      "total_prime": "Unknown",
-      "is_yonko": false,
-      "description": "A pirate crew led by Charlotte Lola, who were victims of Gecko Moria's shadow theft."
-    },
-    "fruit": null
-  },
-  {
-    "id": 54,
-    "name": "Trafalgar D. Water Law",
-    "image": null,
-    "size": "191cm",
-    "age": "26 ans",
-    "bounty": "3000000000",
-    "job": "Captain / Doctor",
-    "status": "living",
-    "crew": {
-      "id": 32,
-      "name": "Heart Pirates",
-      "roman_name": "Hāto no Kaizokudan",
-      "total_prime": "3000000500",
-      "is_yonko": false,
-      "description": "A pirate crew from North Blue led by Trafalgar Law, known for their submarine, the Polar Tang."
-    },
-    "fruit": {
-      "id": 27,
-      "name": "Op-Op Fruit",
-      "description": "Allows the user to create a spherical space or 'room' where they have complete control over the placement and orientation of objects.",
-      "type": "Paramecia",
-      "roman_name": "Ope Ope no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/ope_ope.png"
-    }
-  },
-  {
-    "id": 55,
-    "name": "Bepo",
-    "image": null,
-    "size": "240cm",
-    "age": "22 ans",
-    "bounty": "500",
-    "job": "Navigator",
-    "status": "living",
-    "crew": {
-      "id": 32,
-      "name": "Heart Pirates",
-      "roman_name": "Hāto no Kaizokudan",
-      "total_prime": "3000000500",
-      "is_yonko": false,
-      "description": "A pirate crew from North Blue led by Trafalgar Law."
-    },
-    "fruit": null
-  },
-  {
-    "id": 56,
-    "name": "Jean Bart",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Combatant",
-    "status": "living",
-    "crew": {
-      "id": 32,
-      "name": "Heart Pirates",
-      "roman_name": "Hāto no Kaizokudan",
-      "total_prime": "3000000500",
-      "is_yonko": false,
-      "description": "A pirate crew from North Blue led by Trafalgar Law."
-    },
-    "fruit": null
-  },
-  {
-    "id": 57,
-    "name": "Shachi",
-    "image": null,
-    "size": "Unknown",
-    "age": "27 ans",
-    "bounty": "0",
-    "job": "Member",
-    "status": "living",
-    "crew": {
-      "id": 32,
-      "name": "Heart Pirates",
-      "roman_name": "Hāto no Kaizokudan",
-      "total_prime": "3000000500",
-      "is_yonko": false,
-      "description": "A pirate crew from North Blue led by Trafalgar Law."
-    },
-    "fruit": null
-  },
-  {
-    "id": 58,
-    "name": "Penguin",
-    "image": null,
-    "size": "Unknown",
-    "age": "28 ans",
-    "bounty": "0",
-    "job": "Member",
-    "status": "living",
-    "crew": {
-      "id": 32,
-      "name": "Heart Pirates",
-      "roman_name": "Hāto no Kaizokudan",
-      "total_prime": "3000000500",
-      "is_yonko": false,
-      "description": "A pirate crew from North Blue led by Trafalgar Law."
-    },
-    "fruit": null
-  },
-  {
-    "id": 59,
-    "name": "Eustass Kid",
-    "image": null,
-    "size": "205cm",
-    "age": "23 ans",
-    "bounty": "3000000000",
-    "job": "Captain",
-    "status": "living",
-    "crew": {
-      "id": 33,
-      "name": "Kid Pirates",
-      "roman_name": "Kiddo Kaizokudan",
-      "total_prime": "3200000000",
-      "is_yonko": false,
-      "description": "A notorious pirate crew from South Blue known for causing huge civilian casualties."
-    },
-    "fruit": {
-      "id": 26,
-      "name": "Magnet-Magnet Fruit",
-      "description": "Allows the user to manipulate magnetic forces to attract or repel metal objects.",
-      "type": "Paramecia",
-      "roman_name": "Jiki Jiki no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/jiki_jiki.png"
-    }
-  },
-  {
-    "id": 60,
-    "name": "Killer",
-    "image": null,
-    "size": "195cm",
-    "age": "27 ans",
-    "bounty": "200000000",
-    "job": "Combatant / First Mate",
-    "status": "living",
-    "crew": {
-      "id": 33,
-      "name": "Kid Pirates",
-      "roman_name": "Kiddo Kaizokudan",
-      "total_prime": "3200000000",
-      "is_yonko": false,
-      "description": "A notorious pirate crew from South Blue led by Eustass Kid."
-    },
-    "fruit": null
-  },
-  {
-    "id": 61,
-    "name": "Heat",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Combatant",
-    "status": "living",
-    "crew": {
-      "id": 33,
-      "name": "Kid Pirates",
-      "roman_name": "Kiddo Kaizokudan",
-      "total_prime": "3200000000",
-      "is_yonko": false,
-      "description": "A notorious pirate crew from South Blue led by Eustass Kid."
-    },
-    "fruit": null
-  },
-  {
-    "id": 62,
-    "name": "Wire",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Combatant",
-    "status": "living",
-    "crew": {
-      "id": 33,
-      "name": "Kid Pirates",
-      "roman_name": "Kiddo Kaizokudan",
-      "total_prime": "3200000000",
-      "is_yonko": false,
-      "description": "A notorious pirate crew from South Blue led by Eustass Kid."
-    },
-    "fruit": null
-  },
-  {
-    "id": 63,
-    "name": "Capone Bege",
-    "image": null,
-    "size": "166cm",
-    "age": "42 ans",
-    "bounty": "350000000",
-    "job": "Captain / Godfather",
-    "status": "living",
-    "crew": {
-      "id": 38,
-      "name": "Fire Tank Pirates",
-      "roman_name": "Faia Tanku Kaizokudan",
-      "total_prime": "485000000",
-      "is_yonko": false,
-      "description": "A pirate crew styled like a mafia family, led by Capone 'Gang' Bege."
-    },
-    "fruit": {
-      "id": 28,
-      "name": "Castle-Castle Fruit",
-      "description": "Allows the user to become a living fortress, housing troops and weapons inside their body.",
-      "type": "Paramecia",
-      "roman_name": "Shiro Shiro no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/shiro_shiro.png"
-    }
-  },
-  {
-    "id": 64,
-    "name": "Vito",
-    "image": null,
-    "size": "242cm",
-    "age": "36 ans",
-    "bounty": "95000000",
-    "job": "Advisor",
-    "status": "living",
-    "crew": {
-      "id": 38,
-      "name": "Fire Tank Pirates",
-      "roman_name": "Faia Tanku Kaizokudan",
-      "total_prime": "485000000",
-      "is_yonko": false,
-      "description": "A pirate crew styled like a mafia family."
-    },
-    "fruit": null
-  },
-  {
-    "id": 65,
-    "name": "Gotti",
-    "image": null,
-    "size": "375cm",
-    "age": "33 ans",
-    "bounty": "90000000",
-    "job": "Assassin",
-    "status": "living",
-    "crew": {
-      "id": 38,
-      "name": "Fire Tank Pirates",
-      "roman_name": "Faia Tanku Kaizokudan",
-      "total_prime": "485000000",
-      "is_yonko": false,
-      "description": "A pirate crew styled like a mafia family."
-    },
-    "fruit": null
-  },
-  {
-    "id": 66,
-    "name": "Charlotte Chiffon",
-    "image": null,
-    "size": "215cm",
-    "age": "26 ans",
-    "bounty": "0",
-    "job": "Wife of the Captain",
-    "status": "living",
-    "crew": {
-      "id": 38,
-      "name": "Fire Tank Pirates",
-      "roman_name": "Faia Tanku Kaizokudan",
-      "total_prime": "485000000",
-      "is_yonko": false,
-      "description": "A pirate crew styled like a mafia family."
-    },
-    "fruit": null
-  },
-  {
-    "id": 67,
-    "name": "Capone Pez",
-    "image": null,
-    "size": "Unknown",
-    "age": "1 an",
-    "bounty": "0",
-    "job": "Baby",
-    "status": "living",
-    "crew": {
-      "id": 38,
-      "name": "Fire Tank Pirates",
-      "roman_name": "Faia Tanku Kaizokudan",
-      "total_prime": "485000000",
-      "is_yonko": false,
-      "description": "A pirate crew styled like a mafia family."
-    },
-    "fruit": null
-  },
-  {
-    "id": 68,
-    "name": "Jewelry Bonney",
-    "image": null,
-    "size": "174cm",
-    "age": "24 ans (Estimated)",
-    "bounty": "320000000",
-    "job": "Captain",
-    "status": "living",
-    "crew": {
-      "id": 40,
-      "name": "Bonney Pirates",
-      "roman_name": "Boni Kaizokudan",
-      "total_prime": "320000000",
-      "is_yonko": false,
-      "description": "A pirate crew led by 'Big Eater' Jewelry Bonney from South Blue."
-    },
-    "fruit": {
-      "id": 160,
-      "name": "Age-Age Fruit",
-      "description": "Allows the user to manipulate the age of themselves and others at will.",
-      "type": "Paramecia",
-      "roman_name": "Toshi Toshi no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/toshi_toshi.png"
-    }
-  },
-  {
-    "id": 69,
-    "name": "Urouge",
-    "image": null,
-    "size": "388cm",
-    "age": "47 ans",
-    "bounty": "108000000",
-    "job": "Captain / Monk",
-    "status": "living",
-    "crew": {
-      "id": 39,
-      "name": "Fallen Monk Pirates",
-      "roman_name": "Hakaisō Kaizokudan",
-      "total_prime": "108000000",
-      "is_yonko": false,
-      "description": "A pirate crew from a Sky Island led by 'Mad Monk' Urouge."
-    },
-    "fruit": {
-      "id": 161,
-      "name": "Unknown Fruit",
-      "description": "Allows the user to convert damage taken into physical strength and size.",
-      "type": "Paramecia",
-      "roman_name": "Unknown",
-      "filename": null
-    }
-  },
-  {
-    "id": 70,
-    "name": "Boa Hancock",
-    "image": null,
-    "size": "191cm",
-    "age": "31 ans",
-    "bounty": "1659000000",
-    "job": "Captain / Empress",
-    "status": "living",
-    "crew": {
-      "id": 41,
-      "name": "Kuja Pirates",
-      "roman_name": "Kuja Kaizokudan",
-      "total_prime": "1739000000",
-      "is_yonko": false,
-      "description": "An all-female pirate crew from Amazon Lily, led by the Pirate Empress Boa Hancock."
-    },
-    "fruit": {
-      "id": 31,
-      "name": "Love-Love Fruit",
-      "description": "Allows the user to petrify anyone who feels lust or attraction towards them.",
-      "type": "Paramecia",
-      "roman_name": "Mero Mero no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/mero_mero.png"
-    }
-  },
-  {
-    "id": 71,
-    "name": "Boa Sandersonia",
-    "image": null,
-    "size": "453cm",
-    "age": "30 ans",
-    "bounty": "40000000",
-    "job": "Combatant",
-    "status": "living",
-    "crew": {
-      "id": 41,
-      "name": "Kuja Pirates",
-      "roman_name": "Kuja Kaizokudan",
-      "total_prime": "1739000000",
-      "is_yonko": false,
-      "description": "An all-female pirate crew from Amazon Lily."
-    },
-    "fruit": {
-      "id": 102,
-      "name": "Snake-Snake Fruit, Model: Anaconda",
-      "description": "Allows the user to transform into an anaconda or hybrid form.",
-      "type": "Zoan",
-      "roman_name": "Hebi Hebi no Mi, Model: Anaconda",
-      "filename": "https://images.api-onepiece.com/fruits/hebi_anaconda.png"
-    }
-  },
-  {
-    "id": 72,
-    "name": "Boa Marigold",
-    "image": null,
-    "size": "432cm",
-    "age": "28 ans",
-    "bounty": "40000000",
-    "job": "Combatant",
-    "status": "living",
-    "crew": {
-      "id": 41,
-      "name": "Kuja Pirates",
-      "roman_name": "Kuja Kaizokudan",
-      "total_prime": "1739000000",
-      "is_yonko": false,
-      "description": "An all-female pirate crew from Amazon Lily."
-    },
-    "fruit": {
-      "id": 103,
-      "name": "Snake-Snake Fruit, Model: King Cobra",
-      "description": "Allows the user to transform into a King Cobra or hybrid form.",
-      "type": "Zoan",
-      "roman_name": "Hebi Hebi no Mi, Model: King Cobra",
-      "filename": "https://images.api-onepiece.com/fruits/hebi_cobra.png"
-    }
-  },
-  {
-    "id": 73,
-    "name": "Marguerite",
-    "image": null,
-    "size": "178cm",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Warrior",
-    "status": "living",
-    "crew": {
-      "id": 41,
-      "name": "Kuja Pirates",
-      "roman_name": "Kuja Kaizokudan",
-      "total_prime": "1739000000",
-      "is_yonko": false,
-      "description": "An all-female pirate crew from Amazon Lily."
-    },
-    "fruit": null
-  },
-  {
-    "id": 74,
-    "name": "Shiki",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Admiral",
-    "status": "living",
-    "crew": {
-      "id": 45,
-      "name": "Golden Lion Pirates",
-      "roman_name": "Kinjishi Kaizokudan",
-      "total_prime": "Unknown",
-      "is_yonko": false,
-      "description": "A legendary pirate fleet led by Shiki the Golden Lion, rival to Gol D. Roger."
-    },
-    "fruit": {
-      "id": 39,
-      "name": "Float-Float Fruit",
-      "description": "Enables the user to levitate themselves and non-living objects they touch.",
-      "type": "Paramecia",
-      "roman_name": "Fuwa Fuwa no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/fuwa_fuwa.png"
-    }
-  },
-  {
-    "id": 75,
-    "name": "Dr. Indigo",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Scientist / Doctor",
-    "status": "living",
-    "crew": {
-      "id": 45,
-      "name": "Golden Lion Pirates",
-      "roman_name": "Kinjishi Kaizokudan",
-      "total_prime": "Unknown",
-      "is_yonko": false,
-      "description": "A legendary pirate fleet led by Shiki the Golden Lion."
-    },
-    "fruit": null
-  },
-  {
-    "id": 76,
-    "name": "Caribou",
-    "image": null,
-    "size": "228cm",
-    "age": "32 ans",
-    "bounty": "210000000",
-    "job": "Co-Captain",
-    "status": "living",
-    "crew": {
-      "id": 49,
-      "name": "Caribou Pirates",
-      "roman_name": "Karibū Kaizokudan",
-      "total_prime": "400000000",
-      "is_yonko": false,
-      "description": "A cruel pirate crew known for killing marines, led by brothers Caribou and Coribou."
-    },
-    "fruit": {
-      "id": 88,
-      "name": "Swamp-Swamp Fruit",
-      "description": "Allows the user to become a living swamp, creating bottomless pockets to store weapons or trap enemies.",
-      "type": "Logia",
-      "roman_name": "Numa Numa no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/numa_numa.png"
-    }
-  },
-  {
-    "id": 77,
-    "name": "Coribou",
-    "image": null,
-    "size": "250cm",
-    "age": "29 ans",
-    "bounty": "190000000",
-    "job": "Co-Captain",
-    "status": "living",
-    "crew": {
-      "id": 49,
-      "name": "Caribou Pirates",
-      "roman_name": "Karibū Kaizokudan",
-      "total_prime": "400000000",
-      "is_yonko": false,
-      "description": "A cruel pirate crew known for killing marines."
-    },
-    "fruit": null
-  },
-  {
-    "id": 78,
-    "name": "Fisher Tiger",
-    "image": null,
-    "size": "520cm",
-    "age": "48 ans",
-    "bounty": "230000000",
-    "job": "Captain",
-    "status": "deceased",
-    "crew": {
-      "id": 26,
-      "name": "Sun Pirates",
-      "roman_name": "Taiyō no Kaizokudan",
-      "total_prime": "Unknown",
-      "is_yonko": false,
-      "description": "A legendary crew formed by Fisher Tiger to free slaves and protect Fish-Men."
-    },
-    "fruit": null
-  },
-  {
-    "id": 79,
-    "name": "Aladine",
-    "image": null,
-    "size": "627cm",
-    "age": "46 ans",
-    "bounty": "0",
-    "job": "Doctor / First Mate",
-    "status": "living",
-    "crew": {
-      "id": 26,
-      "name": "Sun Pirates",
-      "roman_name": "Taiyō no Kaizokudan",
-      "total_prime": "Unknown",
-      "is_yonko": false,
-      "description": "A legendary crew formed by Fisher Tiger."
-    },
-    "fruit": null
-  },
-  {
-    "id": 80,
-    "name": "Charlotte Praline",
-    "image": null,
-    "size": "800cm",
-    "age": "29 ans",
-    "bounty": "0",
-    "job": "Member",
-    "status": "living",
-    "crew": {
-      "id": 26,
-      "name": "Sun Pirates",
-      "roman_name": "Taiyō no Kaizokudan",
-      "total_prime": "Unknown",
-      "is_yonko": false,
-      "description": "A legendary crew formed by Fisher Tiger."
-    },
-    "fruit": null
-  },
-  {
-    "id": 81,
-    "name": "Dracule Mihawk",
-    "image": null,
-    "size": "198cm",
-    "age": "43 ans",
-    "bounty": "3590000000",
-    "job": "World's Strongest Swordsman",
-    "status": "living",
-    "crew": {
-      "id": 999,
-      "name": "Cross Guild",
-      "roman_name": "Kurosu Girudo",
-      "total_prime": "8848000000",
-      "is_yonko": true,
-      "description": "An organization that issues bounties on Marines."
-    },
-    "fruit": null
-  },
-  {
-    "id": 82,
-    "name": "Crocodile",
-    "image": null,
-    "size": "253cm",
-    "age": "46 ans",
-    "bounty": "1965000000",
-    "job": "Executive",
-    "status": "living",
-    "crew": {
-      "id": 999,
-      "name": "Cross Guild",
-      "roman_name": "Kurosu Girudo",
-      "total_prime": "8848000000",
-      "is_yonko": true,
-      "description": "An organization that issues bounties on Marines."
-    },
-    "fruit": {
-      "id": 81,
-      "name": "Sand-Sand Fruit",
-      "description": "Allows the user to create, control, and transform into sand.",
-      "type": "Logia",
-      "roman_name": "Suna Suna no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/suna_suna.png"
-    }
-  },
-  {
-    "id": 83,
-    "name": "Daz Bones (Mr. 1)",
-    "image": null,
-    "size": "212cm",
-    "age": "31 ans",
-    "bounty": "75000000",
-    "job": "Subordinate",
-    "status": "living",
-    "crew": {
-      "id": 999,
-      "name": "Cross Guild",
-      "roman_name": "Kurosu Girudo",
-      "total_prime": "8848000000",
-      "is_yonko": true,
-      "description": "An organization that issues bounties on Marines."
-    },
-    "fruit": {
-      "id": 11,
-      "name": "Dice-Dice Fruit",
-      "description": "Turns the user's body into living steel blades.",
-      "type": "Paramecia",
-      "roman_name": "Supa Supa no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/supa_supa.png"
-    }
-  },
-  {
-    "id": 84,
-    "name": "Edward Weevil",
-    "image": null,
-    "size": "680cm",
-    "age": "35 ans",
-    "bounty": "480000000",
-    "job": "Pirate",
-    "status": "living",
-    "crew": null,
-    "fruit": null
-  },
-  {
-    "id": 85,
-    "name": "Shanks",
-    "image": null,
-    "size": "199cm",
-    "age": "39 ans",
-    "bounty": "4048900000",
-    "job": "Captain / Emperor",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 86,
-    "name": "Benn Beckman",
-    "image": null,
-    "size": "206cm",
-    "age": "50 ans",
-    "bounty": "0",
-    "job": "Vice Captain",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 87,
-    "name": "Lucky Roux",
-    "image": null,
-    "size": "241cm",
-    "age": "35 ans",
-    "bounty": "0",
-    "job": "Officer / Cook",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 88,
-    "name": "Yasopp",
-    "image": null,
-    "size": "183cm",
-    "age": "47 ans",
-    "bounty": "0",
-    "job": "Sniper",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 89,
-    "name": "Limejuice",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 90,
-    "name": "Bonk Punch",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Officer / Musician",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 91,
-    "name": "Monster",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Musician / Combatant",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 92,
-    "name": "Building Snake",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Navigator",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 93,
-    "name": "Hongo",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Doctor",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 94,
-    "name": "Howling Gab",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 95,
-    "name": "Rockstar",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "94000000",
-    "job": "Messenger",
-    "status": "living",
-    "crew": {
-      "id": 2,
-      "name": "Red Hair Pirates",
-      "roman_name": "Akagami Kaizokudan",
-      "total_prime": "4142900000",
-      "is_yonko": true,
-      "description": "A powerful pirate crew ruling over the New World, led by Red-Haired Shanks."
-    },
-    "fruit": null
-  },
-  {
-    "id": 96,
-    "name": "Charlotte Linlin (Big Mom)",
-    "image": null,
-    "size": "880cm",
-    "age": "68 ans",
-    "bounty": "4388000000",
-    "job": "Captain / Emperor",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom, consisting largely of her many children."
-    },
-    "fruit": {
-      "id": 60,
-      "name": "Soul-Soul Fruit",
-      "description": "Allows the user to manipulate souls, giving life to objects (Homies) or stealing life from humans.",
-      "type": "Paramecia",
-      "roman_name": "Soru Soru no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/soru_soru.png"
-    }
-  },
-  {
-    "id": 97,
-    "name": "Charlotte Katakuri",
-    "image": null,
-    "size": "509cm",
-    "age": "48 ans",
-    "bounty": "1057000000",
-    "job": "Sweet Commander",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 69,
-      "name": "Mochi-Mochi Fruit",
-      "description": "Allows the user to create, control, and transform into mochi. It is a special Paramecia.",
-      "type": "Paramecia",
-      "roman_name": "Mochi Mochi no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/mochi_mochi.png"
-    }
-  },
-  {
-    "id": 98,
-    "name": "Charlotte Smoothie",
-    "image": null,
-    "size": "464cm",
-    "age": "35 ans",
-    "bounty": "932000000",
-    "job": "Sweet Commander",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 97,
-      "name": "Wring-Wring Fruit",
-      "description": "Allows the user to drain liquid from living and non-living things by wringing them out like a towel.",
-      "type": "Paramecia",
-      "roman_name": "Shibo Shibo no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/shibo_shibo.png"
-    }
-  },
-  {
-    "id": 99,
-    "name": "Charlotte Cracker",
-    "image": null,
-    "size": "307cm",
-    "age": "45 ans",
-    "bounty": "860000000",
-    "job": "Sweet Commander",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 63,
-      "name": "Bis-Bis Fruit",
-      "description": "Allows the user to generate and manipulate biscuits at will.",
-      "type": "Paramecia",
-      "roman_name": "Bisu Bisu no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/bisu_bisu.png"
-    }
-  },
-  {
-    "id": 100,
-    "name": "Charlotte Perospero",
-    "image": null,
-    "size": "333cm",
-    "age": "50 ans",
-    "bounty": "700000000",
-    "job": "Eldest Son / Minister of Candy",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 62,
-      "name": "Lick-Lick Fruit",
-      "description": "Allows the user to create and manipulate candy at will.",
-      "type": "Paramecia",
-      "roman_name": "Pero Pero no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/pero_pero.png"
-    }
-  },
-  {
-    "id": 101,
-    "name": "Charlotte Daifuku",
-    "image": null,
-    "size": "489cm",
-    "age": "48 ans",
-    "bounty": "300000000",
-    "job": "Minister of Beans",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 70,
-      "name": "Puff-Puff Fruit",
-      "description": "Allows the user to summon a genie from their body by rubbing it.",
-      "type": "Paramecia",
-      "roman_name": "Hoya Hoya no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/hoya_hoya.png"
-    }
-  },
-  {
-    "id": 102,
-    "name": "Charlotte Oven",
-    "image": null,
-    "size": "492cm",
-    "age": "48 ans",
-    "bounty": "300000000",
-    "job": "Minister of Browning",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 71,
-      "name": "Heat-Heat Fruit",
-      "description": "Allows the user to heat up their body and transfer that heat to objects.",
-      "type": "Paramecia",
-      "roman_name": "Netsu Netsu no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/netsu_netsu.png"
-    }
-  },
-  {
-    "id": 103,
-    "name": "Charlotte Amande",
-    "image": null,
-    "size": "Unknown",
-    "age": "47 ans",
-    "bounty": "0",
-    "job": "Minister of Nuts",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 104,
-    "name": "Charlotte Opera",
-    "image": null,
-    "size": "Unknown",
-    "age": "46 ans",
-    "bounty": "0",
-    "job": "Minister of Whipped Cream",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 64,
-      "name": "Cream-Cream Fruit",
-      "description": "Allows the user to create and manipulate cream, which can cause burn-like damage (sweetness).",
-      "type": "Paramecia",
-      "roman_name": "Kuri Kuri no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/kuri_kuri.png"
-    }
-  },
-  {
-    "id": 105,
-    "name": "Charlotte Brulee",
-    "image": null,
-    "size": "350cm",
-    "age": "43 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 61,
-      "name": "Mirror-Mirror Fruit",
-      "description": "Allows the user to create mirrors to reflect attacks, trap enemies, or travel through the Mirror World.",
-      "type": "Paramecia",
-      "roman_name": "Mira Mira no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/mira_mira.png"
-    }
-  },
-  {
-    "id": 106,
-    "name": "Charlotte Mont-d'Or",
-    "image": null,
-    "size": "260cm",
-    "age": "38 ans",
-    "bounty": "120000000",
-    "job": "Minister of Cheese",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 66,
-      "name": "Book-Book Fruit",
-      "description": "Allows the user to manipulate books, trapping people inside stories or flying on books.",
-      "type": "Paramecia",
-      "roman_name": "Buku Buku no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/buku_buku.png"
-    }
-  },
-  {
-    "id": 107,
-    "name": "Charlotte Galette",
-    "image": null,
-    "size": "Unknown",
-    "age": "31 ans",
-    "bounty": "0",
-    "job": "Minister of Butter",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 65,
-      "name": "Butter-Butter Fruit",
-      "description": "Allows the user to create and manipulate butter.",
-      "type": "Paramecia",
-      "roman_name": "Bata Bata no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/bata_bata.png"
-    }
-  },
-  {
-    "id": 108,
-    "name": "Charlotte Snack",
-    "image": null,
-    "size": "Unknown",
-    "age": "30 ans",
-    "bounty": "600000000",
-    "job": "Former Sweet Commander",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 109,
-    "name": "Charlotte Pudding",
-    "image": null,
-    "size": "166cm",
-    "age": "16 ans",
-    "bounty": "0",
-    "job": "Minister of Chocolate",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 68,
-      "name": "Memo-Memo Fruit",
-      "description": "Allows the user to manipulate memories by editing them like film strips.",
-      "type": "Paramecia",
-      "roman_name": "Memo Memo no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/memo_memo.png"
-    }
-  },
-  {
-    "id": 110,
-    "name": "Charlotte Flampe",
-    "image": null,
-    "size": "170cm",
-    "age": "15 ans",
-    "bounty": "0",
-    "job": "Head of Special Forces",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 111,
-    "name": "Charlotte Compote",
-    "image": null,
-    "size": "Unknown",
-    "age": "49 ans",
-    "bounty": "0",
-    "job": "Minister of Fruits",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 112,
-    "name": "Charlotte Monde",
-    "image": null,
-    "size": "Unknown",
-    "age": "47 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 113,
-    "name": "Charlotte Hachee",
-    "image": null,
-    "size": "Unknown",
-    "age": "47 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 114,
-    "name": "Charlotte Effilee",
-    "image": null,
-    "size": "Unknown",
-    "age": "47 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 115,
-    "name": "Charlotte Counter",
-    "image": null,
-    "size": "Unknown",
-    "age": "46 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 116,
-    "name": "Charlotte Cadenza",
-    "image": null,
-    "size": "Unknown",
-    "age": "46 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 117,
-    "name": "Charlotte Cabaletta",
-    "image": null,
-    "size": "Unknown",
-    "age": "46 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 118,
-    "name": "Charlotte Gala",
-    "image": null,
-    "size": "Unknown",
-    "age": "46 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 119,
-    "name": "Charlotte Angel",
-    "image": null,
-    "size": "Unknown",
-    "age": "45 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 120,
-    "name": "Charlotte Custard",
-    "image": null,
-    "size": "Unknown",
-    "age": "45 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 121,
-    "name": "Charlotte Zuccoto",
-    "image": null,
-    "size": "Unknown",
-    "age": "44 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 122,
-    "name": "Charlotte Broye",
-    "image": null,
-    "size": "Unknown",
-    "age": "43 ans",
-    "bounty": "0",
-    "job": "Minister of Meringue",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 123,
-    "name": "Charlotte Nusstorte",
-    "image": null,
-    "size": "Unknown",
-    "age": "42 ans",
-    "bounty": "0",
-    "job": "Minister of Transport",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 124,
-    "name": "Charlotte Basskarte",
-    "image": null,
-    "size": "Unknown",
-    "age": "42 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 125,
-    "name": "Charlotte Dosmarche",
-    "image": null,
-    "size": "Unknown",
-    "age": "42 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 126,
-    "name": "Charlotte Noisette",
-    "image": null,
-    "size": "Unknown",
-    "age": "41 ans",
-    "bounty": "0",
-    "job": "Finance Minister",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 127,
-    "name": "Charlotte Moscato",
-    "image": null,
-    "size": "Unknown",
-    "age": "40 ans",
-    "bounty": "0",
-    "job": "Minister of Gelato",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 128,
-    "name": "Charlotte Mash",
-    "image": null,
-    "size": "Unknown",
-    "age": "40 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 129,
-    "name": "Charlotte Cornstarch",
-    "image": null,
-    "size": "Unknown",
-    "age": "40 ans",
-    "bounty": "0",
-    "job": "Minister of Love",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 130,
-    "name": "Charlotte Compo",
-    "image": null,
-    "size": "Unknown",
-    "age": "39 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 131,
-    "name": "Charlotte Laurin",
-    "image": null,
-    "size": "Unknown",
-    "age": "39 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 132,
-    "name": "Charlotte Mozart",
-    "image": null,
-    "size": "Unknown",
-    "age": "37 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 133,
-    "name": "Charlotte Marnier",
-    "image": null,
-    "size": "Unknown",
-    "age": "37 ans",
-    "bounty": "0",
-    "job": "Minister of Yeast",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 134,
-    "name": "Charlotte High-Fat",
-    "image": null,
-    "size": "Unknown",
-    "age": "36 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 135,
-    "name": "Charlotte Tablet",
-    "image": null,
-    "size": "Unknown",
-    "age": "36 ans",
-    "bounty": "0",
-    "job": "Minister of Toppings",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 136,
-    "name": "Charlotte Citron",
-    "image": null,
-    "size": "Unknown",
-    "age": "35 ans",
-    "bounty": "0",
-    "job": "Minister of Eggs",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 137,
-    "name": "Charlotte Cinnamon",
-    "image": null,
-    "size": "Unknown",
-    "age": "35 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 138,
-    "name": "Charlotte Saint-Marc",
-    "image": null,
-    "size": "Unknown",
-    "age": "34 ans",
-    "bounty": "0",
-    "job": "Minister of Essence",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 139,
-    "name": "Charlotte Basans",
-    "image": null,
-    "size": "Unknown",
-    "age": "33 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 140,
-    "name": "Charlotte Melise",
-    "image": null,
-    "size": "Unknown",
-    "age": "33 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 141,
-    "name": "Charlotte Dacquoise",
-    "image": null,
-    "size": "Unknown",
-    "age": "32 ans",
-    "bounty": "0",
-    "job": "Minister of Jam",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 142,
-    "name": "Charlotte Poire",
-    "image": null,
-    "size": "Unknown",
-    "age": "31 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 143,
-    "name": "Charlotte Bavarois",
-    "image": null,
-    "size": "Unknown",
-    "age": "30 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 144,
-    "name": "Charlotte Prim",
-    "image": null,
-    "size": "Unknown",
-    "age": "29 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 145,
-    "name": "Charlotte Kanten",
-    "image": null,
-    "size": "Unknown",
-    "age": "28 ans",
-    "bounty": "0",
-    "job": "Minister of Agar",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 146,
-    "name": "Charlotte Kato",
-    "image": null,
-    "size": "Unknown",
-    "age": "28 ans",
-    "bounty": "0",
-    "job": "Minister of Seeds",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 147,
-    "name": "Charlotte Montb",
-    "image": null,
-    "size": "Unknown",
-    "age": "28 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 148,
-    "name": "Charlotte Chiboust",
-    "image": null,
-    "size": "Unknown",
-    "age": "27 ans",
-    "bounty": "0",
-    "job": "Minister of Mixed Juice",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 149,
-    "name": "Charlotte Mobile",
-    "image": null,
-    "size": "Unknown",
-    "age": "25 ans",
-    "bounty": "0",
-    "job": "Minister of Tasting",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 150,
-    "name": "Charlotte Marble",
-    "image": null,
-    "size": "Unknown",
-    "age": "25 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 151,
-    "name": "Charlotte Myukuru",
-    "image": null,
-    "size": "Unknown",
-    "age": "25 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 152,
-    "name": "Charlotte Maple",
-    "image": null,
-    "size": "Unknown",
-    "age": "25 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 153,
-    "name": "Charlotte Brownie",
-    "image": null,
-    "size": "Unknown",
-    "age": "24 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 154,
-    "name": "Charlotte Joconde",
-    "image": null,
-    "size": "Unknown",
-    "age": "23 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 155,
-    "name": "Charlotte Raisin",
-    "image": null,
-    "size": "Unknown",
-    "age": "22 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 156,
-    "name": "Charlotte Panna",
-    "image": null,
-    "size": "Unknown",
-    "age": "21 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 157,
-    "name": "Charlotte Mascarpone",
-    "image": null,
-    "size": "Unknown",
-    "age": "20 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 158,
-    "name": "Charlotte Joscarpone",
-    "image": null,
-    "size": "Unknown",
-    "age": "20 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 159,
-    "name": "Charlotte Yuen",
-    "image": null,
-    "size": "Unknown",
-    "age": "19 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 160,
-    "name": "Charlotte Newichi",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 161,
-    "name": "Charlotte Newji",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 162,
-    "name": "Charlotte Newsan",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 163,
-    "name": "Charlotte Newshi",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": {
-      "id": 73,
-      "name": "Mix-Mix Fruit",
-      "description": "Allows the user to merge with other people.",
-      "type": "Paramecia",
-      "roman_name": "Gocha Gocha no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/gocha_gocha.png"
-    }
-  },
-  {
-    "id": 164,
-    "name": "Charlotte Newgo",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 165,
-    "name": "Charlotte Nutmeg",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 166,
-    "name": "Charlotte Akimeg",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 167,
-    "name": "Charlotte Allmeg",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 168,
-    "name": "Charlotte Harumeg",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 169,
-    "name": "Charlotte Fuyumeg",
-    "image": null,
-    "size": "Unknown",
-    "age": "18 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 170,
-    "name": "Charlotte Nougat",
-    "image": null,
-    "size": "Unknown",
-    "age": "17 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 171,
-    "name": "Charlotte Anglais",
-    "image": null,
-    "size": "Unknown",
-    "age": "14 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 172,
-    "name": "Charlotte Wafers",
-    "image": null,
-    "size": "Unknown",
-    "age": "13 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 173,
-    "name": "Charlotte Wiro",
-    "image": null,
-    "size": "Unknown",
-    "age": "12 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 174,
-    "name": "Charlotte De-Chat",
-    "image": null,
-    "size": "Unknown",
-    "age": "11 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 175,
-    "name": "Charlotte Normande",
-    "image": null,
-    "size": "Unknown",
-    "age": "10 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 176,
-    "name": "Charlotte Dolce",
-    "image": null,
-    "size": "Unknown",
-    "age": "9 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 177,
-    "name": "Charlotte Dragee",
-    "image": null,
-    "size": "Unknown",
-    "age": "9 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 178,
-    "name": "Charlotte Anana",
-    "image": null,
-    "size": "Unknown",
-    "age": "8 ans",
-    "bounty": "0",
-    "job": "Officer",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 179,
-    "name": "Pekoms",
-    "image": null,
-    "size": "232cm",
-    "age": "27 ans",
-    "bounty": "330000000",
-    "job": "Combatant",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": {
-      "id": 104,
-      "name": "Turtle-Turtle Fruit",
-      "description": "Transforms the user into a turtle with an indestructible shell as hard as diamond.",
-      "type": "Zoan",
-      "roman_name": "Kame Kame no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/kame_kame.png"
-    }
-  },
-  {
-    "id": 180,
-    "name": "Baron Tamago",
-    "image": null,
-    "size": "301cm",
-    "age": "46 ans",
-    "bounty": "429000000",
-    "job": "Combatant / Knight",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": {
-      "id": 105,
-      "name": "Egg-Egg Fruit",
-      "description": "Transforms the user's body composition into an egg. If cracked, they regenerate into a stronger form.",
-      "type": "Zoan",
-      "roman_name": "Tama Tama no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/tama_tama.png"
-    }
-  },
-  {
-    "id": 181,
-    "name": "Bobbin",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "155000000",
-    "job": "Bishop / Combatant",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 182,
-    "name": "Streusen",
-    "image": null,
-    "size": "140cm",
-    "age": "92 ans",
-    "bounty": "0",
-    "job": "Executive Chef",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": {
-      "id": 72,
-      "name": "Cook-Cook Fruit",
-      "description": "Allows the user to transform any object into food.",
-      "type": "Paramecia",
-      "roman_name": "Kuku Kuku no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/kuku_kuku.png"
-    }
-  },
-  {
-    "id": 183,
-    "name": "Prometheus",
-    "image": null,
-    "size": "239cm",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Special Homie",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 184,
-    "name": "Napoleon",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Special Homie / Sword",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 185,
-    "name": "Hera",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Special Homie",
-    "status": "living",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 186,
-    "name": "Kingbaum",
-    "image": null,
-    "size": "2340cm",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Master of Seducing Woods",
-    "status": "deceased",
-    "crew": {
-      "id": 53,
-      "name": "Big Mom Pirates",
-      "roman_name": "Biggu Mamu Kaizokudan",
-      "total_prime": "11121500000",
-      "is_yonko": true,
-      "description": "A massive pirate crew led by one of the Four Emperors, Big Mom."
-    },
-    "fruit": null
-  },
-  {
-    "id": 187,
-    "name": "Kaido",
-    "image": null,
-    "size": "710cm",
-    "age": "59 ans",
-    "bounty": "4611100000",
-    "job": "Captain / Emperor",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast, comprising mainly of Ancient and Mythical Zoan users."
-    },
-    "fruit": {
-      "id": 122,
-      "name": "Fish-Fish Fruit, Model: Azure Dragon",
-      "description": "Allows the user to transform into a massive Azure Dragon or a human-dragon hybrid.",
-      "type": "Mythical Zoan",
-      "roman_name": "Uo Uo no Mi, Model: Seiryu",
-      "filename": "https://images.api-onepiece.com/fruits/uo_uo.png"
-    }
-  },
-  {
-    "id": 188,
-    "name": "King the Conflagration",
-    "image": null,
-    "size": "613cm",
-    "age": "47 ans",
-    "bounty": "1390000000",
-    "job": "All-Star / Lead Performer",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 114,
-      "name": "Dragon-Dragon Fruit, Model: Pteranodon",
-      "description": "Allows the user to transform into a Pteranodon.",
-      "type": "Ancient Zoan",
-      "roman_name": "Ryu Ryu no Mi, Model: Pteranodon",
-      "filename": "https://images.api-onepiece.com/fruits/ryu_pte.png"
-    }
-  },
-  {
-    "id": 189,
-    "name": "Queen the Plague",
-    "image": null,
-    "size": "612cm",
-    "age": "56 ans",
-    "bounty": "1320000000",
-    "job": "All-Star / Lead Performer",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 115,
-      "name": "Dragon-Dragon Fruit, Model: Brachiosaurus",
-      "description": "Allows the user to transform into a Brachiosaurus.",
-      "type": "Ancient Zoan",
-      "roman_name": "Ryu Ryu no Mi, Model: Brachiosaurus",
-      "filename": "https://images.api-onepiece.com/fruits/ryu_bra.png"
-    }
-  },
-  {
-    "id": 190,
-    "name": "Jack the Drought",
-    "image": null,
-    "size": "730cm",
-    "age": "28 ans",
-    "bounty": "1000000000",
-    "job": "All-Star / Lead Performer",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 112,
-      "name": "Elephant-Elephant Fruit, Model: Mammoth",
-      "description": "Allows the user to transform into a Mammoth.",
-      "type": "Ancient Zoan",
-      "roman_name": "Zou Zou no Mi, Model: Mammoth",
-      "filename": "https://images.api-onepiece.com/fruits/zou_mam.png"
-    }
-  },
-  {
-    "id": 191,
-    "name": "Page One",
-    "image": null,
-    "size": "171cm",
-    "age": "20 ans",
-    "bounty": "290000000",
-    "job": "Tobi Roppo",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 113,
-      "name": "Dragon-Dragon Fruit, Model: Spinosaurus",
-      "description": "Allows the user to transform into a Spinosaurus.",
-      "type": "Ancient Zoan",
-      "roman_name": "Ryu Ryu no Mi, Model: Spinosaurus",
-      "filename": "https://images.api-onepiece.com/fruits/ryu_spi.png"
-    }
-  },
-  {
-    "id": 192,
-    "name": "Ulti",
-    "image": null,
-    "size": "173cm",
-    "age": "22 ans",
-    "bounty": "400000000",
-    "job": "Tobi Roppo",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 116,
-      "name": "Dragon-Dragon Fruit, Model: Pachycephalosaurus",
-      "description": "Allows the user to transform into a Pachycephalosaurus.",
-      "type": "Ancient Zoan",
-      "roman_name": "Ryu Ryu no Mi, Model: Pachycephalosaurus",
-      "filename": "https://images.api-onepiece.com/fruits/ryu_pachy.png"
-    }
-  },
-  {
-    "id": 193,
-    "name": "Who's Who",
-    "image": null,
-    "size": "336cm",
-    "age": "38 ans",
-    "bounty": "546000000",
-    "job": "Tobi Roppo",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 120,
-      "name": "Cat-Cat Fruit, Model: Saber-Toothed Tiger",
-      "description": "Allows the user to transform into a Sabertooth Tiger.",
-      "type": "Ancient Zoan",
-      "roman_name": "Neko Neko no Mi, Model: Saber Tiger",
-      "filename": "https://images.api-onepiece.com/fruits/neko_saber.png"
-    }
-  },
-  {
-    "id": 194,
-    "name": "Black Maria",
-    "image": null,
-    "size": "820cm",
-    "age": "29 ans",
-    "bounty": "480000000",
-    "job": "Tobi Roppo",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 118,
-      "name": "Spider-Spider Fruit, Model: Rosamygale Grauvogeli",
-      "description": "Allows the user to transform into an ancient carnivorous spider.",
-      "type": "Ancient Zoan",
-      "roman_name": "Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",
-      "filename": "https://images.api-onepiece.com/fruits/kumo_rosa.png"
-    }
-  },
-  {
-    "id": 195,
-    "name": "Sasaki",
-    "image": null,
-    "size": "318cm",
-    "age": "34 ans",
-    "bounty": "472000000",
-    "job": "Tobi Roppo",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 117,
-      "name": "Dragon-Dragon Fruit, Model: Triceratops",
-      "description": "Allows the user to transform into a Triceratops.",
-      "type": "Ancient Zoan",
-      "roman_name": "Ryu Ryu no Mi, Model: Triceratops",
-      "filename": "https://images.api-onepiece.com/fruits/ryu_tri.png"
-    }
-  },
-  {
-    "id": 196,
-    "name": "Sheepshead",
-    "image": null,
-    "size": "293cm",
-    "age": "24 ans",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 127,
-      "name": "Sheep SMILE",
-      "description": "Artificial Zoan fruit that transforms parts of the user into a sheep.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 197,
-    "name": "Basil Hawkins",
-    "image": null,
-    "size": "210cm",
-    "age": "31 ans",
-    "bounty": "320000000",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 29,
-      "name": "Straw-Straw Fruit",
-      "description": "Allows the user to create and manipulate straw, often for voodoo-like dolls to redirect damage.",
-      "type": "Paramecia",
-      "roman_name": "Wara Wara no Mi",
-      "filename": "https://images.api-onepiece.com/fruits/wara_wara.png"
-    }
-  },
-  {
-    "id": 198,
-    "name": "Holdem",
-    "image": null,
-    "size": "312cm",
-    "age": "30 ans",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 131,
-      "name": "Lion SMILE",
-      "description": "Artificial Zoan fruit that gives the user a lion's head and paws on their stomach.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 199,
-    "name": "Speed",
-    "image": null,
-    "size": "298cm",
-    "age": "24 ans",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 132,
-      "name": "Horse SMILE",
-      "description": "Artificial Zoan fruit that gives the user the body of a horse (Centaur-like).",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 200,
-    "name": "Dobon",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 135,
-      "name": "Hippo SMILE",
-      "description": "Artificial Zoan fruit that fuses a hippopotamus to the user's body.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 201,
-    "name": "Babanuki",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 137,
-      "name": "Elephant SMILE",
-      "description": "Artificial Zoan fruit that puts an elephant head on the user's chest.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 202,
-    "name": "Solitaire",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 139,
-      "name": "Monkey SMILE",
-      "description": "Artificial Zoan fruit giving the user extra monkey limbs.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 203,
-    "name": "Bao Huang",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 142,
-      "name": "Flying Squirrel SMILE",
-      "description": "Artificial Zoan fruit giving the user flying squirrel traits.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 204,
-    "name": "Ginrummy",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": null
-  },
-  {
-    "id": 205,
-    "name": "Daifugo",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 138,
-      "name": "Scorpion SMILE",
-      "description": "Artificial Zoan fruit that fuses a scorpion to the user.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 206,
-    "name": "Briscola",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 144,
-      "name": "Gorilla SMILE",
-      "description": "Artificial Zoan fruit that fuses a gorilla to the user's arm.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 207,
-    "name": "Fourtricks",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 145,
-      "name": "Chicken SMILE",
-      "description": "Artificial Zoan fruit that fuses a chicken to the user.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 208,
-    "name": "Hamlet",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 146,
-      "name": "Giraffe SMILE",
-      "description": "Artificial Zoan fruit that gives the user giraffe traits.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 209,
-    "name": "Mizerka",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 144,
-      "name": "Gorilla SMILE",
-      "description": "Artificial Zoan fruit that fuses a gorilla to the user.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
-  },
-  {
-    "id": 210,
-    "name": "Poker",
-    "image": null,
-    "size": "Unknown",
-    "age": "Unknown",
-    "bounty": "0",
-    "job": "Headliner",
-    "status": "living",
-    "crew": {
-      "id": 44,
-      "name": "Beast Pirates",
-      "roman_name": "Hyakujū Kaizokudan",
-      "total_prime": "11179100000",
-      "is_yonko": true,
-      "description": "A pirate crew led by Kaido the Beast."
-    },
-    "fruit": {
-      "id": 147,
-      "name": "Rattlesnake SMILE",
-      "description": "Artificial Zoan fruit that gives the user snake traits.",
-      "type": "Smile",
-      "roman_name": "SMILE",
-      "filename": "https://images.api-onepiece.com/fruits/smile.png"
-    }
   }
 ]
