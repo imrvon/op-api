@@ -7,9 +7,9 @@ module.exports = (req, res) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
     res.setHeader('Access-Control-Allow-Methods', 'GET');
     
-    const projectRoot = path.join(__dirname, '..', '..');
-    const dataDir = path.join(projectRoot, 'data');
-    const filePath = path.join(dataDir, 'characters.json');
+    // Use process.cwd() for safer path resolution (like we did in crews.js)
+    const projectRoot = process.cwd();
+    const filePath = path.join(projectRoot, 'data', 'characters.json');
     
     // Check if file exists
     if (!fs.existsSync(filePath)) {
@@ -23,9 +23,10 @@ module.exports = (req, res) => {
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const characters = JSON.parse(fileContents);
     
-    const { id, limit, crew, hasFruit } = req.query;
+    // 1. UPDATE: Add 'crew_id' to the destructured query parameters
+    const { id, limit, crew, hasFruit, crew_id } = req.query;
     
-    // NEW: Handle single character request
+    // Handle single character request
     if (id) {
       const character = characters.find(char => char.id === parseInt(id));
       
@@ -39,9 +40,18 @@ module.exports = (req, res) => {
       return res.status(200).json(character);
     }
     
-    // Existing: Handle list with filters
+    // Handle list with filters
     let result = [...characters];
     
+    // 2. NEW FILTER: Filter by Crew ID (for the Crew Details page)
+    if (crew_id) {
+      result = result.filter(char => 
+        // Check if character has a crew object AND if the IDs match
+        char.crew && char.crew.id === parseInt(crew_id)
+      );
+    }
+
+    // Existing: Filter by Crew Name (Search)
     if (crew) {
       result = result.filter(char => 
         char.crew?.name.toLowerCase().includes(crew.toLowerCase())
